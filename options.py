@@ -15,7 +15,8 @@ eligibility = {
     multi-select: True,
     options: [
         "Domestic Students"
-        "International Students"
+        "International Students",
+        "Not Specified"
     ]
 }
 
@@ -111,5 +112,24 @@ details = {
         "Research",
         "STEM",
         "Writing"
+    ]
+}
+
+financial_aid = {
+    multi-select: True,
+    options: [
+        "Yes",
+        "No"
+    ]
+}
+
+application_requirements = {
+    multi-select: True,
+    options: [
+        "Transcript",
+        "Test Scores",
+        "Essay",
+        "Recommendation Letter",
+        "Interview"
     ]
 }
