@@ -24,10 +24,13 @@ eligibility = {
 grade_level = {
     "multi-select": True,
     "options": [
+        "7th",
+        "8th",
         "9th",
         "10th",
         "11th",
         "12th",
+        "College"
     ]
 }
 

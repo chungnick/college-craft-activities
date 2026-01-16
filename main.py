@@ -17,7 +17,11 @@ PIPELINE = [
     # "step1_valid_url.py",
     # "step2_create_md.py",
     # "step3_sister_md.py",
-    "step4_6_orchestrator.py",
+    # "step4_extract_dates.py",
+    # "step5_extract_metadata.py",
+    # "step6_extract_details.py",
+    # "step7_decisions.py",
+    "step8_convert_to_supabase.py",
 ]
 # ---------------------
 
@@ -50,6 +54,13 @@ def run_step(script_name, limit=None, target_id=None):
         
         if REPEAT:
             cmd.append("--repeat")
+    elif script_name == "step7_decisions.py":
+        # Step 7 supports limit but maybe not repeat in the same way (logic is custom)
+        if limit is not None:
+            cmd.extend(["--limit", str(limit)])
+    elif script_name == "step8_convert_to_supabase.py":
+        # Step 8 usually runs on all results, no limit/repeat args needed/supported typically
+        pass
     else:
         if limit is not None:
             cmd.extend(["--limit", str(limit)])
