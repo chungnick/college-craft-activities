@@ -688,5 +688,173 @@
       "error": "Empty content extracted from https://dbbs.wustl.edu/items/young-scientist-program-ysp/",
       "timestamp": "2026-01-15T16:57:17.672211"
     }
+  },
+  "39558635-78f1-4047-887a-55d36734a3a6": {
+    "step4_6_orchestrator": {
+      "error": "'list' object is not a mapping",
+      "timestamp": "2026-01-15T18:32:00.929730"
+    }
+  },
+  "4076f5cc-582d-46d1-bd93-3001f7442cdd": {
+    "step4_6_orchestrator": {
+      "error": "'list' object is not a mapping",
+      "timestamp": "2026-01-15T18:39:01.469869"
+    }
+  },
+  "454fde5d-8d10-4466-9d23-4f987e3497a7": {
+    "step4_6_orchestrator": {
+      "error": "'list' object is not a mapping",
+      "timestamp": "2026-01-15T18:43:01.272434"
+    }
+  },
+  "54d3983d-4d6b-4c26-a7e8-825ae5d45a45": {
+    "step4_6_orchestrator": {
+      "error": "'list' object is not a mapping",
+      "timestamp": "2026-01-15T18:59:21.094178"
+    }
+  },
+  "5533a381-42ac-4c81-872b-61cf650a8baf": {
+    "step4_6_orchestrator": {
+      "error": "'list' object is not a mapping",
+      "timestamp": "2026-01-15T18:59:33.204041"
+    }
+  },
+  "5ed914db-70b9-48b3-8336-586eb8fb4bce": {
+    "step4_6_orchestrator": {
+      "error": "'list' object is not a mapping",
+      "timestamp": "2026-01-15T19:13:36.328300"
+    }
+  },
+  "6365a8e2-5a3a-4744-b584-7e2b91cca602": {
+    "step4_6_orchestrator": {
+      "error": "'list' object is not a mapping",
+      "timestamp": "2026-01-15T19:17:41.614874"
+    }
+  },
+  "69fbc00f-bcae-47a4-ae7d-546b535dd08f": {
+    "step4_6_orchestrator": {
+      "error": "'list' object is not a mapping",
+      "timestamp": "2026-01-15T19:24:17.302597"
+    }
+  },
+  "7d7804c5-be15-43f5-b4b2-858b2250a510": {
+    "step4_6_orchestrator": {
+      "error": "'list' object is not a mapping",
+      "timestamp": "2026-01-15T19:43:17.390266"
+    }
+  },
+  "87276080-651a-4f67-b6aa-9bdf7c8f6bb3": {
+    "step4_6_orchestrator": {
+      "error": "'list' object is not a mapping",
+      "timestamp": "2026-01-15T19:52:54.170801"
+    }
+  },
+  "892556c1-a570-4329-bef4-1c2a5e7ff40a": {
+    "step4_6_orchestrator": {
+      "error": "'list' object is not a mapping",
+      "timestamp": "2026-01-15T19:54:26.971838"
+    }
+  },
+  "97245110-15dc-402e-9fef-470e2c35b2cd": {
+    "step4_6_orchestrator": {
+      "error": "'list' object is not a mapping",
+      "timestamp": "2026-01-15T20:11:33.853650"
+    }
+  },
+  "9830718c-5ab8-4d0f-a9ee-2fb541c2bf50": {
+    "step4_6_orchestrator": {
+      "error": "'list' object is not a mapping",
+      "timestamp": "2026-01-15T20:11:53.435216"
+    }
+  },
+  "9b37b2ee-221c-4a73-a0a4-8eab3e219eb7": {
+    "step4_6_orchestrator": {
+      "error": "'list' object is not a mapping",
+      "timestamp": "2026-01-15T20:14:35.206398"
+    }
+  },
+  "9bd24b1c-bfbf-414c-b6fa-3b851af7507a": {
+    "step4_6_orchestrator": {
+      "error": "'list' object is not a mapping",
+      "timestamp": "2026-01-15T20:16:15.643157"
+    }
+  },
+  "ac3c0497-e2a5-4c62-a4ac-f96e29cf8006": {
+    "step4_6_orchestrator": {
+      "error": "'list' object is not a mapping",
+      "timestamp": "2026-01-15T20:32:24.161186"
+    }
+  },
+  "b9af76d4-c9d7-40c4-a104-15675b65103f": {
+    "step4_6_orchestrator": {
+      "error": "'list' object is not a mapping",
+      "timestamp": "2026-01-15T20:49:40.000244"
+    }
+  },
+  "bba4efc7-f4bf-4ce7-93f4-dbc7f6a48971": {
+    "step4_6_orchestrator": {
+      "error": "'list' object is not a mapping",
+      "timestamp": "2026-01-15T20:51:49.363690"
+    }
+  },
+  "bc7ad2f0-4050-400b-bfbe-dde8c0fee8f8": {
+    "step4_6_orchestrator": {
+      "error": "'list' object is not a mapping",
+      "timestamp": "2026-01-15T20:52:48.756003"
+    }
+  },
+  "bd2a70a7-cb30-478b-88bf-557d9c5f050d": {
+    "step4_6_orchestrator": {
+      "error": "'list' object is not a mapping",
+      "timestamp": "2026-01-15T20:54:14.030662"
+    }
+  },
+  "de049110-2445-484a-b58c-cef773858308": {
+    "step4_6_orchestrator": {
+      "error": "'list' object is not a mapping",
+      "timestamp": "2026-01-15T21:28:55.419776"
+    }
+  },
+  "dfbfce93-4939-44c4-83f4-725dd43371f7": {
+    "step4_6_orchestrator": {
+      "error": "'list' object is not a mapping",
+      "timestamp": "2026-01-15T21:32:04.719181"
+    }
+  },
+  "ead2755a-c82e-4bed-95d9-73f2c06c26a4": {
+    "step4_6_orchestrator": {
+      "error": "'list' object is not a mapping",
+      "timestamp": "2026-01-15T21:42:04.600011"
+    }
+  },
+  "eb3df5da-2304-4456-be41-c6f2a1bec6ba": {
+    "step4_6_orchestrator": {
+      "error": "'list' object is not a mapping",
+      "timestamp": "2026-01-15T21:42:16.131465"
+    }
+  },
+  "f53789a4-7741-474d-b385-91588b838e9c": {
+    "step4_6_orchestrator": {
+      "error": "'list' object is not a mapping",
+      "timestamp": "2026-01-15T21:51:40.513549"
+    }
+  },
+  "f67822f6-29e8-4df8-8e09-1bb4882b9b2c": {
+    "step4_6_orchestrator": {
+      "error": "'list' object is not a mapping",
+      "timestamp": "2026-01-15T21:54:20.170284"
+    }
+  },
+  "f6883197-9bdf-4bd5-8b9d-e6ab108b23af": {
+    "step4_6_orchestrator": {
+      "error": "'list' object is not a mapping",
+      "timestamp": "2026-01-15T21:55:17.818048"
+    }
+  },
+  "f8c38192-652e-4026-9d8e-9d5d789deff0": {
+    "step4_6_orchestrator": {
+      "error": "'list' object is not a mapping",
+      "timestamp": "2026-01-15T21:58:04.277512"
+    }
   }
 }

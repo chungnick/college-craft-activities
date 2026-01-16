@@ -8,7 +8,7 @@ from token_logger import get_total_usage
 load_dotenv('.env.local')
 
 # --- CONFIGURATION ---
-NUMBER_OF_ROWS = 10  # Set to None to run all rows
+NUMBER_OF_ROWS = None  # Set to None to run all rows
 REPEAT = False      # If False, skip rows already in results.json. If True, re-process them.
 TARGET_ID = None    # Set a specific ID to process only that one (e.g. "f443c083...")
 

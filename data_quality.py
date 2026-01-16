@@ -1,6 +1,7 @@
 import json
 import os
 from collections import Counter
+from datetime import datetime
 
 RESULTS_FILE = "results.json"
 FAILED_FILE = "failed_rows.json"
@@ -30,6 +31,36 @@ def analyze_quality():
     title_count = sum(1 for r in results if r.get("title"))
     subtitle_count = sum(1 for r in results if r.get("subtitle"))
     tags_count = sum(1 for r in results if r.get("tags") and len(r.get("tags")) > 0)
+    
+    # Check for current activities (at least one deadline later than today)
+    today = datetime.now().date()
+    current_activities_count = 0
+    
+    for r in results:
+        deadlines = r.get("deadlines", [])
+        if not deadlines:
+            continue
+        
+        has_future_deadline = False
+        for deadline_entry in deadlines:
+            dates = deadline_entry.get("dates", [])
+            for date_str in dates:
+                if not date_str:
+                    continue
+                try:
+                    # Try parsing YYYY-MM-DD format
+                    deadline_date = datetime.strptime(date_str, "%Y-%m-%d").date()
+                    if deadline_date > today:
+                        has_future_deadline = True
+                        break
+                except (ValueError, TypeError):
+                    # If parsing fails, skip this date
+                    continue
+            if has_future_deadline:
+                break
+        
+        if has_future_deadline:
+            current_activities_count += 1
 
     # Metadata completeness
     meta_fields = ["mode", "price", "eligibility", "grade_level", "location", "program_type"]
@@ -55,6 +86,7 @@ def analyze_quality():
     print(f"{'METRIC':<30} {'COUNT':>8} {'PERCENT':>8}")
     print(f"{'Deadlines Found':<30} {deadlines_count:>8} {deadlines_count/total:>8.1%}")
     print(f"{'Program Dates Found':<30} {dates_count:>8} {dates_count/total:>8.1%}")
+    print(f"{'Current Activities':<30} {current_activities_count:>8} {current_activities_count/total:>8.1%}")
     print(f"{'Valid Description (>50 chars)':<30} {desc_count:>8} {desc_count/total:>8.1%}")
     print(f"{'Title Present':<30} {title_count:>8} {title_count/total:>8.1%}")
     print(f"{'Subtitle (Inst.) Present':<30} {subtitle_count:>8} {subtitle_count/total:>8.1%}")
