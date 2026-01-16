@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main0.md": "https://secwww.jhuapl.edu/stem/aspire/"
+  },
+  "errors": {
+    "sister1.md": "404 Client Error: Not Found for url: https://secwww.jhuapl.edu/education/stem-outreach/aspire/eligibility-requirements",
+    "sister2.md": "404 Client Error: Not Found for url: https://secwww.jhuapl.edu/education/stem-outreach/aspire/application-process",
+    "sister3.md": "404 Client Error: Not Found for url: https://secwww.jhuapl.edu/education/stem-outreach/aspire/internship-timeline"
+  }
+}

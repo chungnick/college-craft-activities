@@ -1,30 +1,44 @@
 import os
 import sys
 import subprocess
+from datetime import datetime
 from dotenv import load_dotenv
+from token_logger import get_total_usage
 
 load_dotenv('.env.local')
 
 # --- CONFIGURATION ---
-NUMBER_OF_ROWS = 20  # Set to None to run all rows
+NUMBER_OF_ROWS = 50  # Set to None to run all rows
 REPEAT = False      # If False, skip rows already in results.json. If True, re-process them.
+TARGET_ID = None    # Set a specific ID to process only that one (e.g. "f443c083...")
 
 # Pipeline Steps: Comment out steps to skip them
 PIPELINE = [
     # "step1_valid_url.py",
-    "step2_create_md.py",
-    "step3_sister_md.py",
-    "step4_extract_dates.py",
-    "step5_extract_metadata.py",
-    "step6_extract_details.py",
+    # "step2_create_md.py",
+    # "step3_sister_md.py",
+    "step4_6_orchestrator.py",
 ]
 # ---------------------
 
-def run_step(script_name, limit=None):
+def run_step(script_name, limit=None, target_id=None):
     print(f"--- Running {script_name} ---")
     cmd = [sys.executable, script_name]
     
-    # Step 1 logic is unique (doesn't use --limit in the same way, but let's see if we can just skip args for it)
+    # Assign specific API keys based on the step
+    step_keys = {
+        "step2_create_md.py": os.environ.get("GEMINI_API_KEY_STEP_4"), # Reusing step 4 key for fetching
+        "step3_sister_md.py": os.environ.get("GEMINI_API_KEY_STEP_4"),
+    }
+    
+    key = step_keys.get(script_name)
+    if key:
+        cmd.extend(["--api-key", key])
+    
+    # Pass target ID if specified
+    if target_id:
+        cmd.extend(["--id", target_id])
+    
     if script_name == "step1_valid_url.py":
         # step1 args: --input ec_bank_rows.csv --output ec_bank_rows_with_valid_url.csv (defaults work fine)
         # It doesn't support --limit. We'll just run it as is.
@@ -54,22 +68,36 @@ def run_step(script_name, limit=None):
         sys.exit(1)
 
 def main():
+    start_time = datetime.now()
+    
     # Pipeline sequence
     for script in PIPELINE:
-        # Step 1 (formerly Step 0) might not take --limit in the same way or uses different args.
-        # Checking if script is step1 to adapt arguments if necessary, or assuming standard args.
-        # step0_valid_url.py uses argparse but might not have --limit or --repeat the same way.
-        # Let's check step1 source code if needed. Assuming for now it needs adjustment or we wrap it.
-        # Actually, let's just run it. If it fails due to args, we'll need to fix step1.
-        
-        # Step 1 likely doesn't support --limit in the same way (it processes a CSV). 
-        # But wait, step0_valid_url.py logic is about validating URLs in a CSV. 
-        # It doesn't use "limit" typically, it runs on the whole file or chunks.
-        # Let's pass arguments carefully.
-        
-        run_step(script, NUMBER_OF_ROWS)
+        run_step(script, NUMBER_OF_ROWS, TARGET_ID)
 
     print("Pipeline completed.")
+    
+    # Calculate and display usage breakdown for THIS RUN ONLY
+    usage = get_total_usage(since=start_time)
+    
+    print("\n" + "="*60)
+    print(f"{'CURRENT RUN TOKEN USAGE':^60}")
+    print("="*60)
+    print(f"{'MODEL BREAKDOWN':<30} {'INPUT':>10} {'OUTPUT':>10} {'COST':>8}")
+    print("-" * 60)
+    
+    grand_total_input = 0
+    grand_total_output = 0
+    grand_total_cost = 0.0
+    
+    for model, data in usage.items():
+        grand_total_input += data['input']
+        grand_total_output += data['output']
+        grand_total_cost += data['cost']
+        print(f"{model[:30]:<30} {data['input']:>10,} {data['output']:>10,} ${data['cost']:>8.4f}")
+    
+    print("-" * 60)
+    print(f"{'TOTAL':<30} {grand_total_input:>10,} {grand_total_output:>10,} ${grand_total_cost:>8.4f}")
+    print("="*60)
 
 if __name__ == "__main__":
     main()

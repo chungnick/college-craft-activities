@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main0.md": "https://secwww.jhuapl.edu/stem/stem-academy"
+  },
+  "errors": {
+    "sister1.md": "404 Client Error: Not Found for url: https://secwww.jhuapl.edu/education/stem-outreach/stem-academy/ignite",
+    "sister2.md": "404 Client Error: Not Found for url: https://secwww.jhuapl.edu/education/stem-outreach/stem-academy/high-school",
+    "sister3.md": "404 Client Error: Not Found for url: https://secwww.jhuapl.edu/education/stem-outreach/stem-academy/faq"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "files": {
+    "main0.md": "https://girlswhocode.com/programs/summer-immersion-program"
+  },
+  "errors": {
+    "sister1.md": "403 Client Error: Forbidden for url: https://girlswhocode.zendesk.com/hc/en-us"
+  }
+}

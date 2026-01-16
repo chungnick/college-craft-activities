@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main0.md": "https://explore.outreach.hawaii.edu/search/publicCourseSearchDetails.do?method=load&courseId=116143&selectedProgramAreaId=18355&selectedProgramStreamId=18372"
+  },
+  "errors": {
+    "sister1.md": "HTTPSConnectionPool(host='outreach.hawaii.edu', port=443): Max retries exceeded with url: /summer/summer-scholar-program/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:992)')))",
+    "sister2.md": "HTTPSConnectionPool(host='outreach.hawaii.edu', port=443): Max retries exceeded with url: /admissions-and-aid/tuition-and-fees-2/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:992)')))",
+    "sister3.md": "HTTPSConnectionPool(host='outreach.hawaii.edu', port=443): Max retries exceeded with url: /summer/registration-and-costs/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:992)')))"
+  }
+}

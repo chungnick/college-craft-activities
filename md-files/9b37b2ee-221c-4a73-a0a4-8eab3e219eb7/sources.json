@@ -1,0 +1,9 @@
+{
+  "files": {
+    "main0.md": "https://readinessinstitute.psu.edu/programs/mark-cuban-foundation-ai-bootcamp/",
+    "sister2.md": "https://readinessinstitute.psu.edu/programs/discovery/summer-discovery/"
+  },
+  "errors": {
+    "sister1.md": "403 Client Error: Forbidden for url: https://www.markcubanai.org/faq"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "files": {
+    "main0.md": "http://gtm.math.umd.edu/"
+  },
+  "errors": {
+    "sister1.md": "404 Client Error: Not Found for url: http://gtm.math.umd.edu/.%5Ccamp_2025%5Cgate.html"
+  }
+}

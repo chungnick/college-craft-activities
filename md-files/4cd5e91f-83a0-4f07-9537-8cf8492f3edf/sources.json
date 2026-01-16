@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main0.md": "https://www.arch.virginia.edu/programs/design-discovery#:~:text=Design%20Discovery%20is%20a%206,and%20working%20in%20the%20world",
+    "sister2.md": "https://forms.office.com/r/Yhwk7xEmrU"
+  },
+  "errors": {
+    "sister1.md": "404 Client Error: Not Found for url: https://virginia.app.box.com/s/o53crwayfvx8d5ui792k84dkp4iggfb9",
+    "sister3.md": "403 Client Error: Forbidden for url: https://www.box.com/s/xl7myq8k7mrxff8axmd55yfzavcifi1i"
+  }
+}

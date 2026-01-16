@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main0.md": "https://sites.dartmouth.edu/summerscholars/"
+  },
+  "errors": {
+    "sister1.md": "404 Client Error: Not Found for url: https://sites.dartmouth.edu/programs/precollege-summer-scholars/application-deadlines",
+    "sister2.md": "404 Client Error: Not Found for url: https://sites.dartmouth.edu/programs/precollege-summer-scholars/costs-aid",
+    "sister3.md": "404 Client Error: Not Found for url: https://sites.dartmouth.edu/programs/precollege-summer-scholars/how-apply"
+  }
+}

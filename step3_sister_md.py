@@ -4,12 +4,18 @@ import argparse
 import time
 import json
 import requests
+import pymupdf4llm
+import fitz
+import tempfile
 from bs4 import BeautifulSoup, Comment
 from markdownify import markdownify as md
 from typing import Dict, List, Optional
 from google import genai
 from google.genai import types
 from dotenv import load_dotenv
+from token_logger import log_tokens
+from failed_tracker import log_failure, clear_failure
+from pdf_tracker import get_pdf_ids, remove_pdf_id
 
 # Load environment variables
 load_dotenv('.env.local')
@@ -19,11 +25,12 @@ parser = argparse.ArgumentParser(description="Find and fetch 'sister' pages for 
 parser.add_argument("--limit", type=int, default=None, help="Number of rows to process")
 parser.add_argument("--api-key", type=str, default=os.environ.get("GEMINI_API_KEY"), help="Google Gemini API Key")
 parser.add_argument("--repeat", action="store_true", help="Reprocess all rows even if they exist")
+parser.add_argument("--id", type=str, default=None, help="Process only this specific ID")
 
 # Configuration
 MD_DIR = "md-files"
 RESULTS_FILE = "results.json"
-MODEL_NAME = "gemini-3-flash-preview"
+MODEL_NAME = "gemini-2.5-flash-lite-preview-09-2025"
 TIMEOUT_SECONDS = 30
 
 SYSTEM_PROMPT = """
@@ -36,8 +43,15 @@ The key missing details we are looking for are:
 - Application Requirements
 
 Analyze the provided markdown content (which may contain [Link Text](url) links).
-Select up to 3 URLs that seem most promising to contain this missing information (e.g., links like "Apply Now", "Program Details", "FAQ", "Dates & Deadlines").
-Do NOT select social media links (Facebook, Twitter), generic homepage links if specific ones exist, or mailto links.
+Select ONLY the most promising URLs (UP TO 3, but fewer is better if the information is likely redundant). 
+Prioritize links like "Program Details", "Application Requirements", "FAQ", "Dates & Deadlines", or "Tuition".
+
+CRITICAL - DO NOT SELECT:
+- Social media links (Facebook, Twitter, Instagram, etc.)
+- Generic homepage links
+- Mailto links
+- Links related to: "Contact Us", "About Us", "Login", "Sign In", "Register", "Create Account", "Privacy Policy", "Terms of Service", "Accessibility".
+- Links that likely point to external registration systems (e.g., CampDoc, Circuitree) unless they are the only source of info.
 
 Return a JSON object with a key "sister_urls" containing a list of strings.
 Example:
@@ -49,30 +63,68 @@ Example:
 }
 """
 
+PDF_PROMPT = """
+You are a document transcription assistant. I am providing a PDF file that contains information about a summer program. 
+Please read the entire PDF and provide a clean, structured Markdown transcription of the content. 
+Focus on details like application deadlines, program dates, eligibility, costs, and program descriptions. 
+Output ONLY the Markdown content.
+"""
+
 def clean_markdown(text):
     import re
     if not text: return ""
     return re.sub(r'\n{3,}', '\n\n', text)
 
-def fetch_and_convert(url):
+def fetch_and_convert(url, client=None):
+    """
+    Fetches the URL and converts to Markdown.
+    Handles both HTML and PDF formats using Gemini for PDF.
+    """
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
     }
+    
+    # Clean the URL of trailing punctuation
+    url = url.strip().rstrip('.')
+    
     try:
         response = requests.get(url, headers=headers, timeout=TIMEOUT_SECONDS)
         response.raise_for_status()
         
+        # MAGIC BYTE DETECTION
+        is_pdf = response.content.startswith(b'%PDF')
+        
+        if (is_pdf or 'application/pdf' in response.headers.get('Content-Type', '').lower()) and client:
+            print(f"    Detected PDF content for {url}. Using Gemini to transcribe...")
+            
+            # Use Gemini to transcribe PDF
+            response_gemini = client.models.generate_content(
+                model=MODEL_NAME,
+                contents=[
+                    types.Part.from_bytes(data=response.content, mime_type="application/pdf"),
+                    PDF_PROMPT
+                ]
+            )
+            
+            # Log tokens
+            if response_gemini.usage_metadata:
+                log_tokens("step3_sister_md_pdf", 
+                           MODEL_NAME,
+                           response_gemini.usage_metadata.prompt_token_count, 
+                           response_gemini.usage_metadata.candidates_token_count)
+            
+            return clean_markdown(response_gemini.text)
+
         soup = BeautifulSoup(response.content, 'html.parser')
         for tag in soup(['script', 'style', 'noscript', 'iframe', 'svg', 'meta', 'link']):
             tag.decompose()
-        for comment in soup.find_all(text=lambda text: isinstance(text, Comment)):
+        for comment in soup.find_all(string=lambda text: isinstance(text, Comment)):
             comment.extract()
             
         markdown_content = md(str(soup), heading_style="ATX", strip=['img'])
         return clean_markdown(markdown_content)
     except Exception as e:
-        print(f"    Failed to fetch/convert {url}: {e}")
-        return None
+        raise e
 
 def get_md_content(row_id: str) -> Optional[str]:
     path = os.path.join(MD_DIR, row_id, "main0.md")
@@ -90,9 +142,21 @@ def identify_sister_links(content: str, client: genai.Client) -> List[str]:
                 response_mime_type="application/json"
             )
         )
+        
+        # Log tokens
+        if response.usage_metadata:
+            log_tokens("step3_sister_md", 
+                       MODEL_NAME,
+                       response.usage_metadata.prompt_token_count, 
+                       response.usage_metadata.candidates_token_count)
+
         if response.text:
              data = json.loads(response.text)
-             return data.get("sister_urls", [])
+             urls = data.get("sister_urls", [])
+             # Hardcoded secondary filter for common junk keywords
+             junk_keywords = ['facebook', 'twitter', 'instagram', 'linkedin', 'login', 'signup', 'register', 'privacy-policy', 'terms-of-service', 'accessibility', 'mailto:']
+             filtered_urls = [u for u in urls if not any(k in u.lower() for k in junk_keywords)]
+             return filtered_urls
         else:
              return []
     except Exception as e:
@@ -176,18 +240,36 @@ def main():
             reader = csv.DictReader(f)
             csv_rows = list(reader)
     
+    # Load IDs already in results.json
+    existing_result_ids = {r["id"] for r in existing_results if "id" in r}
+    pdf_fix_ids = get_pdf_ids()
+    
     rows_to_process = []
     for row in csv_rows:
+        row_id = row["id"]
+        
+        # If --id is provided, only process that ID
+        if args.id and row_id != args.id:
+            continue
+
         if str(row.get("valid_url", "")).strip().upper() != "TRUE":
             continue
             
-        row_id = row["id"]
+        # If it's in the PDF cleanup list, DO NOT SKIP IT
+        if row_id in pdf_fix_ids:
+            rows_to_process.append(row)
+            continue
+
+        # Skip if ID is in results.json
+        if not args.repeat and not args.id and row_id in existing_result_ids:
+            continue
+            
         main_md_path = os.path.join(MD_DIR, row_id, "main0.md")
         if not os.path.exists(main_md_path):
             continue
             
         sister1_path = os.path.join(MD_DIR, row_id, "sister1.md")
-        if not args.repeat and os.path.exists(sister1_path):
+        if not args.repeat and not args.id and os.path.exists(sister1_path):
              continue
 
         rows_to_process.append(row)
@@ -195,9 +277,11 @@ def main():
     print(f"Found {len(rows_to_process)} rows to process.")
 
 
-    if args.limit:
+    if args.limit and args.limit < len(rows_to_process):
         rows_to_process = rows_to_process[:args.limit]
         print(f"Limiting to first {args.limit} rows.")
+    else:
+        print(f"Processing all {len(rows_to_process)} remaining rows.")
 
     # Import tqdm for progress bar
     try:
@@ -213,39 +297,65 @@ def main():
         if not content:
             continue
 
-        # 1. Ask Gemini for likely useful links
-        sister_urls = identify_sister_links(content, client)
-        
-        if not sister_urls:
-            continue
+        try:
+            # 1. Ask Gemini for likely useful links
+            sister_urls = identify_sister_links(content, client)
+            
+            # Load existing sources or start fresh
+            sources_path = os.path.join(MD_DIR, row_id, "sources.json")
+            sources = {"files": {"main0.md": row.get("url", "")}, "errors": {}}
+            if os.path.exists(sources_path):
+                try:
+                    with open(sources_path, "r") as f:
+                        old_sources = json.load(f)
+                        if "files" in old_sources: sources = old_sources
+                except: pass
 
-        # 2. Fetch and save these URLs
-        # Only take top 3
-        for i, url in enumerate(sister_urls[:3]):
-            # Resolve relative URLs if necessary? 
-            # Ideally markdownify kept absolute, or we might need base_url.
-            # Assuming absolute for now or Gemini returns valid absolute/relative.
-            # We'll handle basic relative path reconstruction if row has original URL.
+            if sister_urls:
+                # 2. Fetch and save these URLs
+                for i, url in enumerate(sister_urls[:3]):
+                    filename = f"sister{i+1}.md"
+                    final_url = url
+                    if not url.startswith('http'):
+                        base_url = row.get('url', '')
+                        if base_url:
+                            from urllib.parse import urljoin
+                            final_url = urljoin(base_url, url)
+                    
+                    print(f"    Fetching sister {i+1}: {final_url}")
+                    
+                    try:
+                        sister_md = fetch_and_convert(final_url, client)
+                        if not sister_md or not sister_md.strip():
+                            raise ValueError(f"Empty content extracted from {final_url}")
+                            
+                        out_path = os.path.join(MD_DIR, row_id, filename)
+                        with open(out_path, "w", encoding="utf-8") as f:
+                            f.write(sister_md)
+                        sources["files"][filename] = final_url
+                        # Remove from errors if it was there previously
+                        if filename in sources["errors"]: del sources["errors"][filename]
+                    except Exception as fetch_err:
+                        sources["errors"][filename] = str(fetch_err)
+                        # If it failed, ensure any old successful file is removed to stay in sync
+                        old_file_path = os.path.join(MD_DIR, row_id, filename)
+                        if os.path.exists(old_file_path): os.remove(old_file_path)
+                    
+                    time.sleep(1)
             
-            final_url = url
-            if not url.startswith('http'):
-                # Try to join with base url
-                base_url = row.get('url', '')
-                if base_url:
-                    from urllib.parse import urljoin
-                    final_url = urljoin(base_url, url)
+            # Save enriched sources.json
+            with open(sources_path, "w", encoding="utf-8") as f:
+                json.dump(sources, f, indent=2)
             
-            print(f"    Fetching sister {i+1}: {final_url}")
-            sister_md = fetch_and_convert(final_url)
+            # CLEAR FAILURE on success (even if no sister links found, the process worked)
+            clear_failure(row_id, "step3_sister_md")
+            # Remove from pdf_to_clean if it was there
+            remove_pdf_id(row_id)
             
-            if sister_md:
-                # Save as sister{i+1}.md
-                out_path = os.path.join(MD_DIR, row_id, f"sister{i+1}.md")
-                with open(out_path, "w", encoding="utf-8") as f:
-                    f.write(sister_md)
-                
-                # Sleep briefly between requests
-                time.sleep(1)
+        except Exception as e:
+            print(f"    Failed row {row_id}: {e}")
+            log_failure(row_id, "step3_sister_md", e)
+            continue
         
         # Sleep to avoid rate limits
         time.sleep(2)

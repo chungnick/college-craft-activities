@@ -1,0 +1,1 @@
+2026 Shawnee State College - Intellistack

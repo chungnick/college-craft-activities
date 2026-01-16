@@ -1,8 +1,6 @@
+TechCrafters Camp | Penn State Abington
 
-
-TechCrafters Camp \| Penn State Abington
-
-[Skip to main content](#main-content) 
+[Skip to main content](#main-content)
 
 [Report a Concern](https://universityethics.psu.edu/reporting-at-penn-state)
 [Visit Us](/admissions/visit)
@@ -12,70 +10,71 @@ MENU
 
 * [Academics](/academics)
 
-	+ [Baccalaureate Degrees](/academics/majors-at-abington)
-	+ [Associate Degrees](/academics/associate-degree-programs)
-	+ [Pathway to Master's Degrees](https://www.abington.psu.edu/academics/masters)
-	+ [Academic Calendar](/academics/registrar/academic-calendar)
-	+ [Academic Support](/academics/academic-support)
-	+ [Global Programs](https://www.abington.psu.edu/academics/global-programs)
-	+ [Honors Program](/academics/honors-program)
-	+ [Summer Courses](https://www.abington.psu.edu/academics/summer-courses)
-	+ [Registrar](https://www.abington.psu.edu/academics/registrar)
-	+ [Undergraduate Research](https://www.abington.psu.edu/academics/undergraduate-research)
+  + [Baccalaureate Degrees](/academics/majors-at-abington)
+  + [Associate Degrees](/academics/associate-degree-programs)
+  + [Pathway to Master's Degrees](https://www.abington.psu.edu/academics/masters)
+  + [Academic Calendar](/academics/registrar/academic-calendar)
+  + [Academic Support](/academics/academic-support)
+  + [Global Programs](https://www.abington.psu.edu/academics/global-programs)
+  + [Honors Program](/academics/honors-program)
+  + [Summer Courses](https://www.abington.psu.edu/academics/summer-courses)
+  + [Registrar](https://www.abington.psu.edu/academics/registrar)
+  + [Undergraduate Research](https://www.abington.psu.edu/academics/undergraduate-research)
 * [Admissions](/admissions)
 
-	+ [Apply to Penn State](https://www.psu.edu/admission/undergraduate/how-to-apply)
-	+ [Accept Your Offer](https://www.abington.psu.edu/admissions/accepted)
-	+ [Visit Us](/admissions/visit)
-	+ [First\-Year Students](/admissions/who-are-you/first-year-students)
-	+ [Transfer Students](/admissions/who-are-you/transfer-students)
-	+ [International Students](https://www.abington.psu.edu/admissions/who-are-you/international-students)
-	+ [Adult Students](/admissions/who-are-you/first-year-students/adult-students)
-	+ [Veteran Students](https://www.abington.psu.edu/registrar/veterans)
-	+ [Tuition and Financial Aid](/tuition-financial-aid)
-	+ [Virtual Tour](https://www.youvisit.com/tour/abington?pl=v)
+  + [Apply to Penn State](https://www.psu.edu/admission/undergraduate/how-to-apply)
+  + [Accept Your Offer](https://www.abington.psu.edu/admissions/accepted)
+  + [Visit Us](/admissions/visit)
+  + [First-Year Students](/admissions/who-are-you/first-year-students)
+  + [Transfer Students](/admissions/who-are-you/transfer-students)
+  + [International Students](https://www.abington.psu.edu/admissions/who-are-you/international-students)
+  + [Adult Students](/admissions/who-are-you/first-year-students/adult-students)
+  + [Veteran Students](https://www.abington.psu.edu/registrar/veterans)
+  + [Tuition and Financial Aid](/tuition-financial-aid)
+  + [Virtual Tour](https://www.youvisit.com/tour/abington?pl=v)
 * [Campus Life](/campus-life)
 
-	+ [Athletics](https://www.abington.psu.edu/athletics)
-	+ [Belonging, Opportunity, Networking and Development Center](/campus-life/bond)
-	+ [Campus Housing](https://www.abington.psu.edu/residence-halls)
-	+ [Career and Professional Development](/campus-life/careers)
-	+ [Clubs and Organizations](https://discovereast.psu.edu/)
-	+ [Counseling and Psychological Services](https://www.abington.psu.edu/counseling-psychological-services)
-	+ [Police and Public Safety](https://www.abington.psu.edu/police)
-	+ [Events Calendar](/events-abington-monthly-grid)
-	+ [Student Leadership and Involvement](https://www.abington.psu.edu/seal)
+  + [Athletics](https://www.abington.psu.edu/athletics)
+  + [Belonging, Opportunity, Networking and Development Center](/campus-life/bond)
+  + [Campus Housing](https://www.abington.psu.edu/residence-halls)
+  + [Career and Professional Development](/campus-life/careers)
+  + [Clubs and Organizations](https://discovereast.psu.edu/)
+  + [Counseling and Psychological Services](https://www.abington.psu.edu/counseling-psychological-services)
+  + [Police and Public Safety](https://www.abington.psu.edu/police)
+  + [Events Calendar](/events-abington-monthly-grid)
+  + [Student Leadership and Involvement](https://www.abington.psu.edu/seal)
 * Information For
 
-	+ [Adult and Youth Learners](/continuing-education)
-	+ [Community](/community)
-	+ [Current Students](/current-students)
-	+ [Development and Alumni Relations](/development-and-alumni)
-	+ [Diversity](/this-is-penn-state/points-distinction/diversity-abington)
-	+ [Faculty/Staff](https://www.abington.psu.edu/faculty-and-staff)
-	+ [International Students](/academics/global-programs/information-international-students)
-	+ [Parents and Families](/parents-and-families)
+  + [Adult and Youth Learners](/continuing-education)
+  + [Community](/community)
+  + [Current Students](/current-students)
+  + [Development and Alumni Relations](/development-and-alumni)
+  + [Diversity](/this-is-penn-state/points-distinction/diversity-abington)
+  + [Faculty/Staff](https://www.abington.psu.edu/faculty-and-staff)
+  + [International Students](/academics/global-programs/information-international-students)
+  + [Parents and Families](/parents-and-families)
 
 Full site navigation menu
+
 This dialog contains the full navigation menu for this site.
 
 Close
 
 Search
+
 Search
 
- Enter the terms you wish to search for.
- 
+Enter the terms you wish to search for.
 
 Search type:
 
 Penn State Abington
 
-Campus Directory 
+Campus Directory
 
 Penn State (all websites)
 
-Penn State Directory 
+Penn State Directory
 
 [Report a Concern](https://universityethics.psu.edu/reporting-at-penn-state)
 [Visit Us](/admissions/visit)
@@ -128,28 +127,27 @@ Penn State Directory
 
 ## 3D Design and Print Extravaganza at the Penn State Abington MakerSpace!
 
-Students will engage in hands\-on, creative activities utilizing a diverse range of tools, technologies, and machines. Through this process, they will develop valuable maker skills in areas such as art, design, and engineering by solving unique, real\-world challenges. Under the guidance of experienced instructors, students will gain proficiency with a variety of maker tools, including 3D printers and vinyl cutters, applying these technologies to design and create their own projects. Additionally, they will be introduced to advanced equipment such as the laser cutters, enhancing their technical experience, and broadening their understanding of modern fabrication techniques. 
+Students will engage in hands-on, creative activities utilizing a diverse range of tools, technologies, and machines. Through this process, they will develop valuable maker skills in areas such as art, design, and engineering by solving unique, real-world challenges. Under the guidance of experienced instructors, students will gain proficiency with a variety of maker tools, including 3D printers and vinyl cutters, applying these technologies to design and create their own projects. Additionally, they will be introduced to advanced equipment such as the laser cutters, enhancing their technical experience, and broadening their understanding of modern fabrication techniques. 
 
 ## Tech Crafters Advanced Information
 
-After learning the basics about using the fabrication equipment, students will learn about other aspects of the fabrication process. They will learn to use design tools such as Tinkercad for 3D designs and InkScape to create graphics images. Students will focus on building a prototype project from the initial design phase. This will include their personalized 3D models, vinyl cuts, laser etchings, and textile embroidery. Students will be able to use material provided by the maker space and also personalize their own items (t\-shirts, pillow covers, water bottles, etc.) with their designs. 
+After learning the basics about using the fabrication equipment, students will learn about other aspects of the fabrication process. They will learn to use design tools such as Tinkercad for 3D designs and InkScape to create graphics images. Students will focus on building a prototype project from the initial design phase. This will include their personalized 3D models, vinyl cuts, laser etchings, and textile embroidery. Students will be able to use material provided by the maker space and also personalize their own items (t-shirts, pillow covers, water bottles, etc.) with their designs. 
 
 TechCrafters Summer Camp Schedule 2026 with age, date, time, price, and registration link
-| Ages 12\-17 | Ages 12\-17 | Ages 12\-17 |
+
+| Ages 12-17 | Ages 12-17 | Ages 12-17 |
 | --- | --- | --- |
 | Tech Crafters Session 1 | Tech Crafters Session 2 | Tech Crafters Advanced (must take Sessions 1 and 2 to register for advanced) |
-| Week 1 June 22\-25 | Week 2 June 29\-July 2 | Week 3 July 6\-9 |
-| 9:00 a.m.\-4:00 p.m. | 9:00 a.m. \- 4:00 p.m. | 9:00 a.m. \- 4:00 p.m. |
-| $450\.00 | $450\.00 | $400\.00 |
+| Week 1 June 22-25 | Week 2 June 29-July 2 | Week 3 July 6-9 |
+| 9:00 a.m.-4:00 p.m. | 9:00 a.m. - 4:00 p.m. | 9:00 a.m. - 4:00 p.m. |
+| $450.00 | $450.00 | $400.00 |
 | [Register](https://app.campdoc.com/register/psu/abcetechcrafters162226) | [Register](https://app.campdoc.com/register/psu/abcetechcrafters262226) | [Register](https://app.campdoc.com/register/psu/abcetechcraftersadv7626) |
 
 [Learn more about how our discounts work.](https://www.abington.psu.edu/summer-camps/summer-youth-multi-week-discount)
 
 ### Penn State Abington
 
- Conveniently located in a suburban setting, north of Philadelphia, and easily accessible by public transportation.
-
- 
+Conveniently located in a suburban setting, north of Philadelphia, and easily accessible by public transportation.
 
 * [instagram](https://instagram.com/psuabington/ "instagram")
 * [facebook](https://www.facebook.com/psuabington/ "facebook")
@@ -161,50 +159,48 @@ TechCrafters Summer Camp Schedule 2026 with age, date, time, price, and registra
 [Give Now](https://secure.ddar.psu.edu/s/1218/2014/index.aspx?sid=1218&gid=1&pgid=658&cid=2321&dids=32.436.17451.753.2751.3279.17278.6044.5706.17681&bledit=1&appealcode=AD56Q)
 
 * [Academics](/academics)
-	+ [Library](https://libraries.psu.edu/abington)
-	+ [Registrar](http://abington.psu.edu/registrar)
+  + [Library](https://libraries.psu.edu/abington)
+  + [Registrar](http://abington.psu.edu/registrar)
 * [Admission](/admissions)
-	+ [Visit Penn State Abington](/admissions/visit)
-	+ [Take our Virtual Tour](http://www.youvisit.com/tour/abington?pl=v)
+  + [Visit Penn State Abington](/admissions/visit)
+  + [Take our Virtual Tour](http://www.youvisit.com/tour/abington?pl=v)
 * [Athletics](http://abingtonsports.com/)
-	+ [Contact Athletics](http://abingtonsports.com/staff.aspx)
-	+ [Schedule of Games](http://abingtonsports.com/calendar.aspx?vtype=list&preset=current&tab=2)
+  + [Contact Athletics](http://abingtonsports.com/staff.aspx)
+  + [Schedule of Games](http://abingtonsports.com/calendar.aspx?vtype=list&preset=current&tab=2)
 * [Careers](https://hr.psu.edu/careers)
 * [Contact Us](https://www.abington.psu.edu/contactus)
 
 * [Campus Directory](/campus-directory)
-	+ [Faculty](/directory/results?type=25)
-	+ [Staff](/directory/results?type=26)
+  + [Faculty](/directory/results?type=25)
+  + [Staff](/directory/results?type=26)
 * [Directions](/directions-penn-state-abington)
-	+ [Virtual Tour](https://www.abington.psu.edu/virtual-tour)
+  + [Virtual Tour](https://www.abington.psu.edu/virtual-tour)
 * [This is Penn State](/this-is-penn-state)
-	+ [Media Resource Center](/community/resources-reporters)
-	+ [PSUalert](https://psualert.psu.edu/psualert/)
-	+ [Police and Public Safety](http://abington.psu.edu/security-parking)
-* [Tuition \& Financial Aid](/tuition-financial-aid)
-	+ [Tuition and Fees](https://tuition.psu.edu/)
-	+ [Financial Aid](/tuition-financial-aid)
+  + [Media Resource Center](/community/resources-reporters)
+  + [PSUalert](https://psualert.psu.edu/psualert/)
+  + [Police and Public Safety](http://abington.psu.edu/security-parking)
+* [Tuition & Financial Aid](/tuition-financial-aid)
+  + [Tuition and Fees](https://tuition.psu.edu/)
+  + [Financial Aid](/tuition-financial-aid)
 * [Faculty/Staff Resources](https://www.abington.psu.edu/faculty-and-staff)
-	+ [Activity Insight](https://activityinsight.psu.edu/)
-	+ [Canvas](https://www.it.psu.edu/services/canvas/)
-	+ [Intranet](https://pennstateoffice365.sharepoint.com/sites/PennStateAbingtonIntranet2)
-	+ [LionPath](https://lionpathsupport.psu.edu/)
-	+ [Penn State Research Portal](https://research.med.psu.edu/pure/)
-	+ [Outlook](https://outlook.office.com/owa/)
-	+ [Starfish](http://starfish.psu.edu)
+  + [Activity Insight](https://activityinsight.psu.edu/)
+  + [Canvas](https://www.it.psu.edu/services/canvas/)
+  + [Intranet](https://pennstateoffice365.sharepoint.com/sites/PennStateAbingtonIntranet2)
+  + [LionPath](https://lionpathsupport.psu.edu/)
+  + [Penn State Research Portal](https://research.med.psu.edu/pure/)
+  + [Outlook](https://outlook.office.com/owa/)
+  + [Starfish](http://starfish.psu.edu)
 
 1600 Woodland Road,
- Abington,
- Pennsylvania
+Abington,
+Pennsylvania
 19001
-[215\-881\-7300](tel:215-881-7300)
+[215-881-7300](tel:215-881-7300)
 
 ## Footer Legal Menu
 
 * [Privacy](https://www.psu.edu/web-privacy-statement/)
-* [Non\-discrimination](https://policy.psu.edu/policies/ad91)
+* [Non-discrimination](https://policy.psu.edu/policies/ad91)
 * [Accessibility](https://www.psu.edu/accessibilitystatement/)
 
 * The Pennsylvania State University © 2026
-* 
-

@@ -1,0 +1,337 @@
+FAQ | College of Agricultural, Consumer & Environmental Sciences | Illinois
+
+[Skip to main content](#main-content)
+
+[College of Agricultural, Consumer & Environmental Sciences](/)
+
+Search
+
+* [Visit](/visit)
+* [Apply](/apply)
+* [Give](/give)
+
+* About
+  + [From the Dean](/about/dean)
+  + [Overview of ACES](/about/overview-aces)
+    - [ACES Annual Report](/about/overview-aces/aces-annual-report)
+    - [What We Do & Why It Matters](/about/overview-aces/what-we-do-why-it-matters)
+    - [Strategic Plan](/about/overview-aces/2020-2025-aces-strategic-plan)
+      * [Strategic Goals](/about/overview-aces/strategic-plan/strategic-goals)
+  + [Directory](/about/directory)
+    - [Academic Departments & Heads](/about/directory/academic-departments-heads)
+    - [Dean's Office](/about/directory/deans-office)
+    - [Academic Programs](/about/directory/academic-programs)
+    - [Advancement](/about/directory/advancement)
+    - [Business & Administration](/about/directory/business-administration)
+    - [Diversity, Equity, and Inclusion](/about/directory/diversity-equity-and-inclusion)
+    - [Human Resources](/about/directory/human-resources)
+    - [International Programs](/about/directory/international-programs)
+    - [Marketing & Communications](/about/directory/marketing-communications)
+    - [Research](/about/directory/research)
+    - [Special Events](/about/directory/special-events)
+    - [Technology Services](/about/directory/aces-technology-services)
+  + [International Programs](/about/international-programs)
+    - [About](/about/international-programs/about)
+      * [Publications](/about/international-programs/about/newsletter-publications)
+    - [Engagements](/about/international-programs/engagements)
+    - [Funding Opportunities](/about/international-programs/funding-opportunities)
+      * [Faculty & Staff](/about/international-programs/funding-opportunities/funding-and-opportunities-aces-faculty-staff)
+        + [ACES Funding](/about/international-programs/funding-opportunities/faculty-staff/faculty-staff-aces-funding#paragraph--918)
+          - [2013 Universidad Autónoma de Querétaro Grant Recipients](/international/resources/facultystaff-resources/faculty-and-staff-funding-opportunities-6)
+          - [CONACYT (Mexico) Joint Research Program](/international/resources/facultystaff-resources/faculty-and-staff-funding-opportunities-4)
+          - [MINCYT Partnership Grants](/international/resources/facultystaff-resources/faculty-and-staff-funding-opportunities-5)
+          - [Past Global Food Security Fellows](/international/resources/facultystaff-resources/faculty-and-staff-funding-opportunities-7)
+          - [Past Joint Research Grant Recipients](/international/resources/facultystaff-resources/faculty-and-staff-funding-opportunities-2)
+          - [Past Seed Grant Recipients](/about/international-programs/funding-opportunities/faculty-staff/aces-funding/past-seed-grant)
+          - [UNAM (Mexico) Joint Research Program](/international/resources/facultystaff-resources/faculty-and-staff-funding-opportunities-3)
+        + [External Funding](/about/international-programs/funding-opportunities/faculty-staff/faculty-staff-aces-funding#paragraph--922)
+      * [Graduate Students](/about/international-programs/funding-opportunities/graduate-student-funding-opportunities)
+        + [ACES Funding](/about/international-programs/funding-opportunities/graduate-students-aces-funding#grad-aces-grants)
+        + [External Funding](/about/international-programs/funding-opportunities/graduate-students-aces-funding#grad-external-funding-opps)
+      * [Undergraduate Students](/about/international-programs/funding-opportunities/undergraduate-student-funding-and-opportunities)
+        + [ACES Funding](/about/international-programs/funding-opportunities/undergraduate-student-aces-funding#paragraph--915)
+        + [External Funding](/about/international-programs/funding-opportunities/undergraduate-student-aces-funding#paragraph--948)
+    - [Resources](/about/international-programs/resources)
+      * [Faculty & Staff](/about/international/resources/faculty-staff-resources)
+        + [Global Academy](/about/international-programs/resources/faculty-staff/global-academy)
+          - [Brazil (Virtual) Global Academy 2019-2021](/international/resources/facultystaff-resources/faculty-and-staff-funding-opportunities/global-0)
+          - [Brazil 2008 Global Academy](/international/resources/facultystaff-resources/faculty-and-staff-funding-opportunities/global-10)
+          - [China 2009 Global Academy](/international/resources/facultystaff-resources/faculty-and-staff-funding-opportunities/global-9)
+          - [Cuba 2016 Global Academy](/international/resources/facultystaff-resources/faculty-and-staff-funding-opportunities/global-3)
+          - [European Union 2007 Global Academy](/international/resources/facultystaff-resources/faculty-and-staff-funding-opportunities/global-11)
+          - [Ghana 2012 Global Academy](/international/resources/facultystaff-resources/faculty-and-staff-funding-opportunities/global-7)
+          - [Global Partnership 2017 Global Academy](/international/resources/facultystaff-resources/faculty-and-staff-funding-opportunities/global-2)
+          - [Global Partnerships 2021-22](/international/resources/facultystaff-resources/faculty-and-staff-funding-opportunities/global-12)
+          - [India 2010 Global Academy](/international/resources/facultystaff-resources/faculty-and-staff-funding-opportunities/global-8)
+          - [Mexico 2006 Global Academy](/international/resources/facultystaff-resources/faculty-and-staff-funding-opportunities/global-13)
+          - [Mexico 2015 Global Academy](/international/resources/facultystaff-resources/faculty-and-staff-funding-opportunities/global-4)
+          - [South Africa 2018 Global Academy](/international/resources/facultystaff-resources/faculty-and-staff-funding-opportunities/global-1)
+          - [Taiwan 2013 Global Academy](/international/resources/facultystaff-resources/faculty-and-staff-funding-opportunities/global-6)
+          - [The Philippines 2014 Global Academy](/international/resources/facultystaff-resources/faculty-and-staff-funding-opportunities/global-5)
+      * [Students](/about/international-programs/resources/student-resources)
+        + [Past Global Food Security Fellows](/about/international-programs/resources/students/past-global-food-security-fellows)
+        + [Past International Graduate Grant Recipients](/about/international-programs/resources/students/past-international-graduate-grant-recipients)
+      * [Visitors](/about/international-programs/resources/international-visitor-resources)
+        + [International Summer Immersion Program](/about/international-programs/resources/visitors/international-summer-immersion-program)
+        + [Selected Past International Visitors](/about/international-programs/resources/visitors/selected-past-international-visitors)
+      * [University Partners](/about/international-programs/resources/university-partners)
+      * [History](/about/international-programs/resources/history)
+    - [Events](/about/international-programs/events-calendar)
+      * [Past Events](/about/international-programs/events/past-events)
+    - [Contact](/about/international-programs/contact)
+  + [Inclusion](/about/inclusion-aces)
+    - [Student Supports](/about/inclusion/student-supports)
+      * [Financial Supports and Scholarships](/about/inclusion/student-supports/financial-supports-and-scholarships)
+      * [Finding Community](/about/inclusion/student-supports/finding-community)
+        + [MANNRS](https://aces.illinois.edu/minorities-agriculture-natural-resources-and-related-sciences-manrrs)
+          - [Our Team](/about/inclusion/student-supports/finding-community/mannrs/our-team)
+          - [MANNRS Blog](https://blogs.illinois.edu/view/9103)
+      * [Food Security](/about/inclusion/student-supports/food-security)
+    - [Employee Supports](/about/inclusion/employee-supports)
+      * [Civil Rights](https://aces.illinois.edu/civil-rights)
+      * [OAE](/about/inclusion/employee-supports/office-access-and-equity)
+    - [Meet Our Team](/about/inclusion/meet-our-team)
+    - [ODEI Events and Program](/about/inclusion/odei-events-and-program)
+  + [Facilities Planning & Management](/about/facilities-planning-management)
+  + [Special Events](/liac)
+  + [ACES Apparel Store](https://stores.inksoft.com/illinois_aces/shop/home)
+  + [Contact](/about/contact)
+* Admissions
+  + [Applying to ACES](/admissions/applying-aces)
+  + [Financial Aid & Scholarships](/admissions/financial-aid-scholarships)
+  + [Future Students](/future-students)
+  + [Visit](/visit)
+  + [Contact](/academics/contact-office-academic-programs)
+* Academics
+  + [Program Explorer](/academics/program-explorer)
+  + [Undergraduate Degrees](/academics/undergraduate-degrees)
+  + [Graduate Degrees](/academics/graduate-degrees)
+  + [Online Programs](https://acesonline.illinois.edu/)
+    - [Online Courses](/academics/online-programs/online-courses)
+  + [Certificates](/academics/certificates)
+    - [Agribusiness and Sustainable Food Production Economics Certificate](/academics/certificates/agribusiness-and-sustainable-food-production-economics-certificate)
+    - [Dairy Nutrition for Udder Success Certificate](/academics/certificates/dairy-nutrition-udder-success-certificate)
+    - [Food Regulations, Nutrition Policy, and Personalized Nutrition Certificate](/academics/certificates/food-regulations-nutrition-policy-and-personalized-nutrition-certificate)
+    - [Land, Agriculture and Alternative Investing Certificate](/academics/certificates/land-agriculture-and-alternative-investing-certificate)
+    - [Wetland Science and Conservation Certificate](/academics/certificates/wetland-science-and-conservation-certificate)
+  + [Pre-College Programs](/academics/pre-college-programs)
+  + [Student Opportunities](/admissions/opportunities)
+    - [Clubs & Organizations](/academics/student-opportunities/student-clubs-organizations)
+    - [Internships](/admissions/student-opportunities/internships)
+    - [Study Abroad](/admissions/student-opportunities/study-abroad)
+    - [Undergraduate Research](/academics/student-opportunities/undergraduate-research)
+  + [Study Abroad](/academics/study-abroad)
+    - [Get Started](/academics/study-abroad/get-started)
+      * [Policies](/academics/study-abroad/get-started/policies)
+    - [Global Ambassador Program](/academics/study-abroad/global-ambassador-program)
+    - [Explore Programs](/academics/study-abroad/explore-programs)
+    - [First-Year Experience Study Abroad Programs](/academics/study-abroad/first-year-experience-study-abroad-programs)
+    - [Courses](/academics/study-abroad/courses)
+    - [Cost & Aid](/academics/study-abroad/cost-aid)
+    - [Incoming Exchange Students](/academics/study-abroad/cost-aid/incoming-exchange-students)
+    - [Resources](/academics/study-abroad/resources)
+    - [Identity & Inclusion](/academics/study-abroad/identity-and-inclusion)
+    - [FAQ](/academics/study-abroad/faq)
+  + [Current Students](/academics/current-students)
+    - [Student Leadership Council](/academics/current-students/student-leadership-council)
+    - [Advising](/academics/current-students/advising)
+      * [Registration](/academics/current-students/advising/new-student-registration)
+    - [Honors](/academics/current-students/honors)
+      * [ACES James Scholars](/academics/current-students/honors/aces-james-scholars)
+    - [Scholarships](https://aces.illinois.edu/admissions/financial-aid-scholarships#paragraph--394)
+    - [Academic Support](/academics/current-students/academic-support)
+      * [Student Support](/academics/current-students/academic-support/student-support)
+    - [Clubs & Organizations](https://aces.illinois.edu/admissions/student-opportunities/student-clubs-organizations)
+    - [Embedded Counseling](/academics/current-students/embedded-counseling)
+    - [Forms & Petitions](/academics/current-students/forms-petitions)
+      * [Course Syllabi](/academics/current-students/forms-petitions/course-syllabi)
+    - [Graduation](/academics/current-students/graduation)
+  + [Career Services](/academics/career-services)
+    - [Career Fair](/academics/career-services/aces-las-career-fair-2026)
+      * [Recruiter Information](/academics/career-services/career-fair/recruiter-information)
+      * [Student Information](/academics/career-services/career-fair/student-information)
+    - [Student Resources](/academics/career-services/student-resources)
+      * [Career Outcomes](/academics/career-services/student-resources/career-outcomes)
+      * [Student Stories](/academics/career-services/student-resources/student-stories)
+    - [Employers](/academics/career-services/employers)
+      * [Recruiting Policies](/academics/career-services/employers/recruiting-policies)
+      * [Employer Stories](/academics/career-services/employers/employer-stories)
+    - [Faculty & Advisors](/academics/career-services/faculty-and-advisors)
+    - [Alumni](/academics/career-services/alumni)
+    - [Contact](/academics/career-services/contact)
+  + [Contact](/academics/contact-office-academic-programs)
+  + [Request Information](/Request_Info)
+* Research
+  + [ACES Research](/research/research)
+  + [Research Areas](/research/research-areas)
+    - [Agriculture & Environment](/research/research-areas/agriculture-environment)
+    - [Data & Technology](/research/research-areas/data-technology)
+    - [Family & Communities](/research/research-areas/family-communities)
+    - [Health & Wellness](/research/research-areas/health-wellness)
+  + [History](/research/history)
+    - [Supersweet Corn](/research/history/supersweet-corn)
+    - [The Illini Grove](/research/history/illini-grove)
+    - [The Morrow Plots](/research/history/morrow-plots)
+  + [Resources](/research/resources)
+    - [Future Interdisciplinary Research Explorations (FIRE)](/research/resources/future-interdisciplinary-research-explorations-fire)
+    - [Supporting Pathways for Advancement, Research and Knowledge (SPARK)](/research/resources/supporting-pathways-advancement-research-and-knowledge-spark)
+  + [Research Facilities](/research/research-facilities)
+  + [Safety](/research/safety)
+  + [Contact](/research/contact-office-research)
+* News
+  + [ACES News](/news)
+  + [Voices of ACES Blog](/blog)
+  + [ACES Newsletter](/news/newsletter)
+  + [Events](/news-events/events)
+  + [Let's Get Social](/news-events/connect)
+* [Illinois Extension](/extension)
+* Alumni
+  + [Alumni Central](/alumni)
+  + [Board of Directors](/alumni/association)
+  + [Upcoming Events](/alumni/alumni-events)
+  + [ACES Family Academies](/family-academies)
+  + [Awards & Recognition](/alumni/awards)
+    - [Award Winners](/alumni/awards-recognition/award-winners)
+  + [Get Involved](/alumni/get-involved)
+    - [Celebrating Food & Ag](/alumni/get-involved/celebrate-food-ag-day-2024)
+    - [Submit Alumni Updates](https://uiaa.org/contact-us/)
+    - [Round Barn Society](/alumni/get-involved/round-barn-society)
+    - [Hire Illini](/giving/aces-alumni-association/get-involved/hire-illini)
+  + [Alumni News](https://aces.illinois.edu/news/tag?id=13)
+  + [Contact Us](/alumni/contact)
+* Giving
+  + [Guide to Giving](/giving)
+  + [Make a Gift](/give)
+  + [Ways to Give](/giving/ways-give)
+  + [4-H Foundation](https://4h.extension.illinois.edu/about-4-h/illinois-4-h-foundation)
+  + [Corporate](/corporate)
+    - [Contact](/giving/corporate/contact)
+  + [Contact](/giving/contact-office-advancement)
+
+## Breadcrumb
+
+1. [Home](/)
+2. [Academics](/academics)
+3. [Study Abroad](/academics/study-abroad)
+4. FAQ
+
+# FAQ
+
+### Academics
+
+* [Program Explorer](/academics/program-explorer)
+* [Undergraduate Degrees](/academics/undergraduate-degrees)
+* [Graduate Degrees](/academics/graduate-degrees)
+* [Online Programs](https://acesonline.illinois.edu/)
+* [Certificates](/academics/certificates)
+* [Pre-College Programs](/academics/pre-college-programs)
+* [Student Opportunities](/admissions/opportunities)
+* [Study Abroad](/academics/study-abroad)
+  + [Get Started](/academics/study-abroad/get-started)
+  + [Global Ambassador Program](/academics/study-abroad/global-ambassador-program)
+  + [Explore Programs](/academics/study-abroad/explore-programs)
+  + [First-Year Experience Study Abroad Programs](/academics/study-abroad/first-year-experience-study-abroad-programs)
+  + [Courses](/academics/study-abroad/courses)
+  + [Cost & Aid](/academics/study-abroad/cost-aid)
+  + [Incoming Exchange Students](/academics/study-abroad/cost-aid/incoming-exchange-students)
+  + [Resources](/academics/study-abroad/resources)
+  + [Identity & Inclusion](/academics/study-abroad/identity-and-inclusion)
+  + [FAQ](/academics/study-abroad/faq)
+* [Current Students](/academics/current-students)
+* [Career Services](/academics/career-services)
+* [Contact](/academics/contact-office-academic-programs)
+* [Request Information](/Request_Info)
+
+If you're having trouble finding the answers to your questions, please contact ACES Study Abroad at [aces-studyabroad@illinois.edu](mailto:aces-studyabroad@illinois.edu).
+
+How much does study abroad cost?
+
+The cost of study abroad programs varies. Programs offered through the ACES and the university have budget sheets included within the Costs tab on the digital program brochure. These sheets give a strong estimate of how much the program costs. We recommend comparing this to how much you spend per semester to attend Illinois.
+
+**NOTE:** The program fee for studying abroad is in place of the cost of tuition on campus, not in addition to it.
+
+How can I pay for it?
+
+* If you filed for Federal Student Aid (FAFSA), financial aid money is transferrable in most cases, including grants and loans. Some scholarships may not qualify, and you should check with the Office of Student Financial Aid to confirm.
+* There are study abroad-specific scholarships that can be applied before or after being accepted into a study abroad program.
+* Check with your advisor and any faculty coordinating your study abroad experience to see if there are opportunities to reduce the cost of the trip.
+
+Will studying abroad delay graduation?
+
+Studying abroad does not delay graduation for most students. During semester programs, you will likely earn as much credit as you would on campus. For winter break or summer sessions, credit can be earned for field courses and general credits. In some cases, studying abroad can save both time and money.
+
+Are there language requirements?
+
+Most of the programs offered through ACES include courses in the English language. You can confirm whether there is a language requirement on the digital program brochures.
+
+Is it safe?
+
+ACES Study Abroad and the [Office of International Safety and Security](https://safetyabroad.illinois.edu/) take every measure to ensure the safety and well-being of all students abroad in every program. Personal safety can also be dependent on how students conduct themselves while studying abroad, and cultural orientation programs are in place to help students make safe decisions.
+
+What official documents will I need to travel?
+
+A passport is required for all programs outside of the United States, and some destinations may also require a visa. Most visas are received at the consulate of the country you will be studying in. Other visas, usually called “residency permits,” are received once you arrive at your destination. Students are responsible for obtaining their visas (if required), but more specific information will be provided in the pre-departure advising process.
+
+How do I get a passport?
+
+You should apply for a passport several months before you are scheduled to travel, as the process sometimes takes as long as eight weeks to complete. *You must have a passport to finalize your study abroad application*. Passports need to be valid for at least six months after returning from study abroad. Information about how and where to apply for U.S. passports can be found on the [U.S. Department of State website](https://www.state.gov/).
+
+We also encourage your emergency contact to have an up-to-date passport so that in the unlikely event of illness or an emergency, they would be able to travel to where you are studying.
+
+How is currency exchange be handled?
+
+In many countries, debit cards are the most convenient and safest method of getting foreign currency at a favorable rate of exchange. Be sure to communicate with your banks and credit card companies about where you will be traveling and to understand any international fees. Large sums of cash are not recommended, but some reserve cash, and a second card is helpful in case of an emergency.
+
+How can I stay in touch while abroad?
+
+If you are bringing a smartphone, be sure you know what international plans are available through your carrier and what fees are associated with calls/texts/data. Many students bring smartphones but restrict use to when there is Wi-Fi access. It is possible to use apps such as WhatsApp and GroupMe while abroad over Wi-Fi.
+
+Students on longer programs may also decide to get a local sim card to use abroad. If that is your plan, be sure to have your smartphone unlocked to use the sim or purchase a pay-as-you-go phone.
+
+Do I need immunizations?
+
+The [McKinley Health Center](https://mckinley.illinois.edu/medical-services/immunizations-allergies-travel/travel-consults-and-service) provides information and options for immunization services for students looking to travel abroad. You can also request a travel consult through your primary healthcare provider or a private travel clinic near you.
+
+[College of Agricultural, Consumer & Environmental Sciences](/)
+
+* [Instagram](https://www.instagram.com/acesillinois/)
+* [Facebook](https://www.facebook.com/UofICollegeofACES)
+* [x](https://twitter.com/ACESIllinois)
+* [YouTube](https://www.youtube.com/user/ACESAcademicPrograms)
+* [LinkedIn](https://www.linkedin.com/showcase/college-of-aces/)
+
+227 Mumford Hall, MC 710
+
+1301 W Gregory Dr.
+
+Urbana,
+IL
+61801
+
+[217-333-0460](tel:217-333-0460)
+
+Email: [aces@illinois.edu](mailto:aces@illinois.edu)
+
+[Web Feedback/Requests](https://forms.clickup.com/8455368/f/82168-483/TCO3IHN4I7UJH12BTC)
+[Inside ACES (Fac/Staff)](https://inside.aces.illinois.edu/)
+[Login](/user)
+
+## College Resources
+
+* [Alumni](https://acesalumni.illinois.edu/)
+* [Bylaws](/bylaws)
+* [Civil Rights](/civil-rights)
+* [Contact Us](/about/contact-us)
+* [Current Students](/academics/current-students)
+* [Directory](/about/directory)
+* [Illinois Extension](https://extension.illinois.edu/)
+* [Illinois 4-H](https://4h.extension.illinois.edu/)
+* [Future Students](/admissions/future-students)
+* [Safety](/research/safety)
+
+## University Resources
+
+* [About Illinois](https://illinois.edu/about/index.html)
+* [Admissions](https://admissions.illinois.edu)
+* [Coronavirus (COVID-19)](https://covid19.illinois.edu/)
+* [Giving](https://uif.uillinois.edu/)

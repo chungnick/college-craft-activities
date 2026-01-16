@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main0.md": "https://dceg.cancer.gov/fellowship-training/summer-internships"
+  },
+  "errors": {
+    "sister1.md": "403 Client Error: Forbidden for url: https://www.training.nih.gov/programs/sip",
+    "sister2.md": "403 Client Error: Forbidden for url: https://www.training.nih.gov/research-training/pb/sip/#eligibility-criteria",
+    "sister3.md": "403 Client Error: Forbidden for url: https://www.training.nih.gov/research-training/pb/sip/#how-to-apply"
+  }
+}

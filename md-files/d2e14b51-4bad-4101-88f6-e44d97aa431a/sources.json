@@ -1,0 +1,8 @@
+{
+  "files": {
+    "main0.md": "https://rpi.regfox.com/polymer-chemistry-research-experience"
+  },
+  "errors": {
+    "sister1.md": "HTTPSConnectionPool(host='exchange.rpi.edu', port=443): Max retries exceeded with url: /owa/attachment.ashx?attach=1&id=RgAAAACuC0x600t3TJii%2F8M2iGXlBwDKa0lqM4uhSb%2F%2B%2FaNYrQfyAAAAE%2FiIAADKa0lqM4uhSb%2F%2B%2FaNYrQfyAAASrK2%2FAAAJ&attid0=BAAAAAAA&attcnt=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x11df4bf90>, 'Connection to exchange.rpi.edu timed out. (connect timeout=30)'))"
+  }
+}

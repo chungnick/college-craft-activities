@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main0.md": "https://eoss.asu.edu/access/scene/high-school-program"
+  },
+  "errors": {
+    "sister1.md": "404 Client Error: Not Found for url: https://eoss.asu.edu/stem-initiatives/our-mentors",
+    "sister2.md": "HTTPSConnectionPool(host='specialevents.asu.edu', port=443): Max retries exceeded with url: /ereg/newreg.php?eventid=800572 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:992)')))",
+    "sister3.md": "404 Client Error: Not Found for url: https://eoss.asu.edu/stem-initiatives/teacher-resources"
+  }
+}

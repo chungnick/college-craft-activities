@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main0.md": "https://www.umassd.edu/steam-academy/",
+    "sister2.md": "https://www.umassd.edu/financialaid/",
+    "sister3.md": "https://www.umassd.edu/bursar/tuition-and-fees/"
+  },
+  "errors": {
+    "sister1.md": "522 Server Error: <none> for url: https://www.steamidentity.com/"
+  }
+}

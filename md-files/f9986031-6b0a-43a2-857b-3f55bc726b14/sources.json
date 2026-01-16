@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main0.md": "https://info.rpi.edu/pre-college-initiatives/preface-rensselaer-summer-engineering-design-program"
+  },
+  "errors": {
+    "sister1.md": "404 Client Error: Not Found for url: https://info.rpi.edu/pipeline-initiatives/preface-rensselaer-summer-engineering-design-program/eligibility-selection-and",
+    "sister2.md": "404 Client Error: Not Found for url: https://info.rpi.edu/pipeline-initiatives/preface-rensselaer-summer-engineering-design-program/about-program",
+    "sister3.md": "404 Client Error: Not Found for url: https://info.rpi.edu/pipeline-initiatives/preface-rensselaer-summer-engineering-design-program/sponsorship"
+  }
+}

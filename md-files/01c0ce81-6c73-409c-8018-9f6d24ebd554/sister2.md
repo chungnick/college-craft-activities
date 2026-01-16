@@ -1,57 +1,329 @@
+ACADEMICS
 
-Pre\-College 2026 RegistrationThis website uses resources that are being blocked by your network. Contact your network administrator for more information.ACADEMICSADMISSIONSSTUDENT LIFEABOUTSUPPORT[Contact](https://www.nysid.edu/contact)[Apply](https://www.nysid.edu/apply)[Request Info](https://www.nysid.edu/request-information)Back[What is Interior Design?](https://www.nysid.edu/academics/what-is-interior-design)[Academic Programs](https://www.nysid.edu/academic-programs)[Institute for Continuing \& Professional Studies](https://www.nysid.edu/institute-for-continuing-professional-studies)[Online Learning](https://www.nysid.edu/online-learning)[Joint Program with Sotheby’s Institute of Art](https://www.nysid.edu/academics/joint-program-with-sothebys-institute-of-art)[Study Abroad](https://www.nysid.edu/academics/study-abroad)[Faculty](https://www.nysid.edu/faculty)[Registration](https://www.nysid.edu/registration)[Academic Catalog](https://www.nysid.edu/academic-catalog)[Academic Calendar](https://www.nysid.edu/academic-calendar)[Advising and Transfer Credit](https://www.nysid.edu/advising-and-transfer-credit)Back[What Path is Right for You?](https://www.nysid.edu/what-path-is-right-for-you)[Open House](https://www.nysid.edu/open-house)[Request Information](https://www.nysid.edu/request-information)[Pre\-College](https://www.nysid.edu/precollege)[Undergraduate Admissions Requirements](https://www.nysid.edu/undergraduate-admissions-requirements)[Graduate Admissions Requirements](https://www.nysid.edu/graduate-admissions-requirements)[Tuition and Fees](https://www.nysid.edu/tuition-fees)[Financial Aid](https://www.nysid.edu/financial-aid)[International Students](https://www.nysid.edu/international-students)[Admissions FAQs](https://www.nysid.edu/admissions-faqs)[Plan a Visit](https://www.nysid.edu/plan-a-visit)[Apply Now!](https://www.nysid.edu/apply)Back[Student Life at NYSID](https://www.nysid.edu/student-life)[Commencement 2018](https://www.nysid.edu/commencement-2018)[Housing](https://www.nysid.edu/housing)[Student Clubs and Organizations](https://www.nysid.edu/student-clubs-organizations)[Student Handbook](https://www.nysid.edu/student-handbook)[Career and Internship Services](https://www.nysid.edu/career-and-internship-services)[Counseling Center](https://www.nysid.edu/counseling-center)[Library](http://library.nysid.edu/library/)[Campus Safety and Security](https://www.nysid.edu/campus-safety-security)[Disability Services](https://www.nysid.edu/disability-services)Back[At\-a\-Glance](https://www.nysid.edu/at-a-glance)[Leadership](https://www.nysid.edu/leadership)[News and Events](https://www.nysid.edu/news-and-events)[History](https://www.nysid.edu/history)[Alumni](https://www.nysid.edu/alumni)[Press Center](https://www.nysid.edu/press-center)[Profiles](https://www.nysid.edu/profiles)[Work at NYSID](https://www.nysid.edu/work-at-nysid)[Facilities](https://www.nysid.edu/facilities)[Space Rental](https://www.nysid.edu/space-rental)[Contact Us](https://www.nysid.edu/contact)Back[Ways to Give](https://www.nysid.edu/ways-to-give)[Design the Future](https://www.nysid.edu/design-the-future)[Annual Gala 2019](https://www.nysid.edu/annual-gala-2019)[Plan a Gift](https://www.nysid.edu/plan-a-gift)[Dialogues on Design](https://www.nysid.edu/dialogues-on-design)[Honor Roll of Donors](https://www.nysid.edu/honor-roll-of-donors)[Home: The Foundations of Enduring Spaces](https://www.nysid.edu/home-the-foundations-of-enduring-spaces)[Contact](https://www.nysid.edu/contact)[Apply](https://www.nysid.edu/apply)[Request Info](https://www.nysid.edu/request-information)[ACADEMICS](https://www.nysid.edu/academics-folder/)[What is Interior Design?](https://www.nysid.edu/academics/what-is-interior-design)[Academic Programs](https://www.nysid.edu/academic-programs)[Institute for Continuing \& Professional Studies](https://www.nysid.edu/institute-for-continuing-professional-studies)[Online Learning](https://www.nysid.edu/online-learning)[Joint Program with Sotheby’s Institute of Art](https://www.nysid.edu/academics/joint-program-with-sothebys-institute-of-art)[Study Abroad](https://www.nysid.edu/academics/study-abroad)[Faculty](https://www.nysid.edu/faculty)[Registration](https://www.nysid.edu/registration)[Academic Catalog](https://www.nysid.edu/academic-catalog)[Academic Calendar](https://www.nysid.edu/academic-calendar)[Advising and Transfer Credit](https://www.nysid.edu/advising-and-transfer-credit)[ADMISSIONS](https://www.nysid.edu/admissions-folder/)[What Path is Right for You?](https://www.nysid.edu/what-path-is-right-for-you)[Open House](https://www.nysid.edu/open-house)[Request Information](https://www.nysid.edu/request-information)[Pre\-College](https://www.nysid.edu/precollege)[Admissions Requirements](https://www.nysid.edu/admissions-requirements)[Tuition and Fees](https://www.nysid.edu/tuition-fees)[Financial Aid](https://www.nysid.edu/financial-aid)[International Students](https://www.nysid.edu/international-students)[Admissions FAQs](https://www.nysid.edu/admissions-faqs)[Plan a Visit](https://www.nysid.edu/plan-a-visit)[Apply Now!](https://www.nysid.edu/apply)[STUDENT LIFE](https://www.nysid.edu/student-life-folder/)[Student Life at NYSID](https://www.nysid.edu/student-life)[Commencement](https://www.nysid.edu/commencement)[Housing](https://www.nysid.edu/housing)[Student Clubs and Organizations](https://www.nysid.edu/student-clubs-organizations)[Student Handbook](https://www.nysid.edu/student-handbook)[Career and Internship Services](https://www.nysid.edu/career-and-internship-services)[Counseling Center](https://www.nysid.edu/counseling-center)[Library](http://library.nysid.edu/library/)[Campus Safety and Security](https://www.nysid.edu/campus-safety-security)[Disability Services](https://www.nysid.edu/disability-services)[ABOUT](https://www.nysid.edu/about-folder/)[At\-a\-Glance](https://www.nysid.edu/at-a-glance)[Leadership](https://www.nysid.edu/leadership)[News and Events](https://www.nysid.edu/news-and-events)[History](https://www.nysid.edu/history)[Alumni](https://www.nysid.edu/alumni)[Press Center](https://www.nysid.edu/press-center)[Profiles](https://www.nysid.edu/profiles)[Work at NYSID](https://www.nysid.edu/work-at-nysid)[Facilities](https://www.nysid.edu/facilities)[Space Rental](https://www.nysid.edu/space-rental)[Contact Us](https://www.nysid.edu/contact)[SUPPORT](https://www.nysid.edu/support-folder/)[Ways to Give](https://www.nysid.edu/ways-to-give)[Plan a Gift](https://www.nysid.edu/plan-a-gift)[Dialogues on Design](https://www.nysid.edu/dialogues-on-design)[Honor Roll of Donors](https://www.nysid.edu/honor-roll-of-donors)[Home: The Foundations of Enduring Spaces](https://www.nysid.edu/home-the-foundations-of-enduring-spaces)# Pre\-College 2026 Registration
+ADMISSIONS
 
-Loading...New York School of Interior Design’s Summer Pre\-College program offers high school students the opportunity to truly experience and understand life as an interior designer. It’s the perfect way to learn how a passion can become a profession. In the NYSID Pre\-College program, students will learn the basic how\-to’s of interior design and will complete a small portfolio project. They will be immersed in all that New York City, the design capital of the world, has to offer online, through virtual tours and live Q\&A with design industry leaders.  
+STUDENT LIFE
+
+ABOUT
+
+SUPPORT
+
+[Contact](/contact)
+[Apply](/apply)
+[Request Info](/request-information)
+
+Back
+[What is Interior Design?](/academics/what-is-interior-design)
+[Academic Programs](/academic-programs)
+[Institute for Continuing & Professional Studies](/institute-for-continuing-professional-studies)
+[Study Abroad](/academics/study-abroad)
+[Pre-College](/precollege)
+[Faculty](/faculty)
+[Registration](https://www.nysid.edu/registration)
+[Academic Catalog](/academic-catalog)
+[Academic Calendar](/academic-calendar)
+[Advising and Transfer Credit](/advising-and-transfer-credit)
+
+Back
+[What Path is Right for You?](/what-path-is-right-for-you)
+[Request Information](/request-information)
+[Online Learning](/online-learning)
+[Admissions Requirements](/admissions-requirements)
+[Tuition and Fees](/tuition-fees)
+[Financial Aid](/financial-aid)
+[International Students](/international-students)
+[Admissions FAQs](/admissions-faqs)
+[Plan a Visit](/plan-a-visit)
+[Apply Now!](/apply)
+
+Back
+[Student Life at NYSID](/student-life)
+[Commencement](/commencement2025)
+[Housing](/housing)
+[Student Clubs and Organizations](/student-clubs-organizations)
+[Student Handbook](/student-handbook)
+[Career and Internship Services](/career-and-internship-services)
+[Counseling Center](/counseling-center)
+[Library](http://library.nysid.edu/library/)
+[Campus Safety and Security](/campus-safety-security)
+[Disability Services](/disability-services)
+[Shop NYSID Gear](/shop-nysid-gear)
+
+Back
+[At-a-Glance](/at-a-glance)
+[Leadership](/leadership)
+[Atelier Magazine](/atelier)
+[History](/history)
+[News and Events](/news-and-events)
+[Alumni](/alumni)
+[Press Center](/press-center)
+[Profiles](/profiles)
+[Work at NYSID](/work-at-nysid)
+[Contact Us](/contact)
+[Teaching Green Symposium](https://www.nysid.edu/teachinggreen)
+[HEERF I, II, III Funding](/heerf-funding)
+
+Back
+[Ways to Give](/ways-to-give)
+[Gala 2026](/gala2026)
+[Dialogues on Design](/dialogues-on-design)
+[Honor Roll of Donors](/honor-roll-of-donors)
+[Plan a Gift](/plan-a-gift)
+[NYSID Fund for Tuition Assistance](/nysid-fund-for-tuition-assistance)
+[Home: The Foundations of Enduring Spaces](/home-the-foundations-of-enduring-spaces)
+
+[ACADEMICS](/academics-folder)
+
+[What is Interior Design?](/academics/what-is-interior-design)
+[Academic Programs](/academic-programs)
+[Institute for Continuing & Professional Studies](/institute-for-continuing-professional-studies)
+[Study Abroad](/academics/study-abroad)
+[Pre-College](/precollege)
+[Faculty](/faculty)
+[Registration](https://www.nysid.edu/registration)
+[Academic Catalog](/academic-catalog)
+[Academic Calendar](/academic-calendar)
+[Advising and Transfer Credit](/advising-and-transfer-credit)
+[ADMISSIONS](/admissions-folder)
+
+[What Path is Right for You?](/what-path-is-right-for-you)
+[Request Information](/request-information)
+[Online Learning](/online-learning)
+[Admissions Requirements](/admissions-requirements)
+[Tuition and Fees](/tuition-fees)
+[Financial Aid](/financial-aid)
+[International Students](/international-students)
+[Admissions FAQs](/admissions-faqs)
+[Plan a Visit](/plan-a-visit)
+[Apply Now!](/apply)
+[STUDENT LIFE](/student-life-folder)
+
+[Student Life at NYSID](/student-life)
+[Commencement](/commencement2025)
+[Housing](/housing)
+[Student Clubs and Organizations](/student-clubs-organizations)
+[Student Handbook](/student-handbook)
+[Career and Internship Services](/career-and-internship-services)
+[Counseling Center](/counseling-center)
+[Library](http://library.nysid.edu/library/)
+[Campus Safety and Security](/campus-safety-security)
+[Disability Services](/disability-services)
+[Shop NYSID Gear](/shop-nysid-gear)
+[ABOUT](/about-folder)
+
+[At-a-Glance](/at-a-glance)
+[Leadership](/leadership)
+[Atelier Magazine](/atelier)
+[History](/history)
+[News and Events](/news-and-events)
+[Alumni](/alumni)
+[Press Center](/press-center)
+[Profiles](/profiles)
+[Work at NYSID](/work-at-nysid)
+[Contact Us](/contact)
+[Teaching Green Symposium](https://www.nysid.edu/teachinggreen)
+[HEERF I, II, III Funding](/heerf-funding)
+[SUPPORT](/support-folder)
+
+[Ways to Give](/ways-to-give)
+[Gala 2026](/gala2026)
+[Dialogues on Design](/dialogues-on-design)
+[Honor Roll of Donors](/honor-roll-of-donors)
+[Plan a Gift](/plan-a-gift)
+[NYSID Fund for Tuition Assistance](/nysid-fund-for-tuition-assistance)
+[Home: The Foundations of Enduring Spaces](/home-the-foundations-of-enduring-spaces)
+
+[Contact](/contact)[Apply](/apply)[Request Info](/request-information)
+
+# Pre-College
+
+[On-site Residential/Commuter](/precollege/#residential-commuter) 
+[Online](/precollege/#precollege-online) 
   
-**Scholarships are available.** The scholarship application link can be found in your registration confirmation email. After submitting your registration form, please check your email for instructions on how to apply for a scholarship.  
-  
+[Course Descriptions](/precollege/#course-descriptions) 
+[Student Testimonials](/precollege/#precollege-testimonials)
 
-Accessibility is a priority at NYSID, and we are committed to providing reasonable accommodations to ensure a welcoming and inclusive environment for all. If you require specific accommodations or have accessibility concerns, please reach out to Admissions at [admissions@nysid.edu](http://admissions@nysid.edu). We appreciate the opportunity to enhance your experience and make our programs accessible to everyone.For the StudentStudent First NameStudent Chosen/Preferred NameStudent Last NameStudent Email AddressStudent Cell Phone NumberBirthdateBirthdateJanuaryFebruaryMarchAprilMayJuneJulyAugustSeptemberOctoberNovemberDecember123456789101112131415161718192021222324252627282930312026202520242023202220212020201920182017201620152014201320122011201020092008200720062005200420032002200120001999199819971996199519941993199219911990198919881987198619851984198319821981198019791978197719761975197419731972197119701969196819671966196519641963196219611960195919581957195619551954195319521951195019491948194719461945194419431942194119401939193819371936193519341933193219311930192919281927192619251924192319221921192019191918191719161915191419131912191119101909190819071906190519041903190219011900Mailing AddressMailing AddressCountryStreetCityRegionPostal CodeWhat is the name of your high school or secondary school?High School Graduation YearDo you belong to a community\-based organization?Kips Bay Boys \& Girls ClubYWCA of New YorkGirls IncNoneOtherPlease share the name of the organization: For the Parent/Legal GuardianParent/Guardian Legal First NameParent/Guardian Legal Last NameParent/Guardian emailParent/guardian emergency contact numberParent/guardian secondary emergency contact numberPre\-College RegistrationThis is for registration **ONLY**. Payments are due on **June 12th** after scholarship notifications. You can cancel your registration until June 18th. To drop a course and receive a refund, you must notify NYSID in writing no later than **June 22, 2026**. All refunds are issued by credit card.If a student registers for both Pre\-College I and Pre\-College II at the same time, they will receive a 10% discount on the tuition for Pre\-College II. Total for both courses: $4,037\.50Online program:Pre\-College I: July 6\-16, 2026 at 10 am Eastern Standard TimePre\-College I: July 6\-16, 2026 at 5 am Eastern Standard Time/3:30 PM India Standard TimePre\-College II: July 6\-16, 2026 at 10 am Eastern Standard TimePre\-College I: July 20\-30, 2026 10 am Eastern Standard TimePre\-College II: July 20\-30, 2026 10 am Eastern Standard TimePre\-College I \& II: July 6\-30, 2026 10 am Eastern Standard TimeNYSID Student Code of Conduct**By signing this I hereby certify that I agree to abide by [NYSID’s code of conduct](https://apply.nysid.edu/www/documents/POLICIES%20OF%20NYSID%2C%20PreCollege%202023.docx), and understand the consequences of misconduct.**For Student: "I Agree"Click to Sign...Reproduction of Student Work and Images Waiver**NYSID frequently reproduces student work and photographs of campus activities and field trips in its publications and promotional materials.**I give my permission to have my likeness or my work published in these materials.Parent/Legal Guardian SignatureClick to Sign...Student Signature Click to Sign...Submit### **New York School
-of Interior Design**
+## Pre-College: On-site Residential and Commuter
+
+Embark on an enriching two-week adventure with Summer Springboard @ NYSID. This immersive program is meticulously designed for students from 9th-12th grade, offering a unique opportunity to explore the captivating world of interior design. (Must have completed the 9th grade prior to program start.) When you enroll in our on-site Pre-College program in New York City, you'll be fully immersed in the design capital of the world. Your experience will include exclusive visits to designers' offices, showrooms, museums, and private hotel tours. Beyond design-focused activities, you'll enjoy an extended day with fellow Summer Springboard students who are studying other subjects. Don't miss this chance to transform your passion into a potential profession while experiencing the vibrant creative landscape of New York City!
+
+### **2026 PROGRAM DATES:**
+
+* Session 1: July 5 - July 17
+* Session 2: July 19 - July 31
+
+### **COURSES:**
+
+* Pre-College: Interior Design I
+* Pre-College: Interior Design II
+* Pre-College: Art and Design Portfolio Workshop
+* Pre-College: Photography in the City
+
+### **Tuition:**
+
+* Residential students: $5,998
+* Commuter students: $3,398
+* Commuter – class only students: $2,498
+
+*Scholarships are available for students to help cover tuition expenses.*
+
+[Register](https://summerspringboard.com/campus/new-york-school-of-interior-design/)
+
+[**Learn more**](https://summerspringboard.com/campus/new-york-school-of-interior-design/)
+
+## Pre-College: Online
+
+This interactive online program for students from 9th-12th grade offers a unique opportunity to explore the fascinating world of interior design from the comfort of your own home. (Must have completed the 9th grade prior to program start.) Experience exclusive Zoom sessions, GoPro tours of designers' offices, showrooms, and museums, as well as live virtual chats with leading designers and other engaging events. Dive into the creative process and gain insights into the design industry—all without leaving your personal space!
+
+### **2026 PROGRAM DATES:**
+
+* Session 1: July 6 - July 16
+* Session 2: July 20 - July 30
+
+### **COURSES:**
+
+* Pre-College: Interior Design I
+* Pre-College: Interior Design II
+
+### **Tuition:**
+
+* Online: $2,125
+
+  If a student registers for both Pre-College I and Pre-College II at the same time, they will receive a 10% discount on the tuition for Pre-College II. Total for both courses: $4038.
+
+*Scholarships are available for students to help cover tuition expenses.*
+
+[Register](https://apply.nysid.edu/register/precollege2026)
+
+[**Learn more**](https://nysid.edu/precollege/#pre-college-online2)
+
+## Online Pre-College@NYSID: Ignite Your Design Passion from Anywhere
+
+### Online for Students Entering 9th-12th Grade
+
+New York School of Interior Design’s Summer Pre-College program offers high school students the chance to experience and understand life as a designer. It’s the perfect way to learn how your passion can become your profession.
+
+As a Pre-College student, you’ll learn the fundamentals of interior design from the same professional designers who teach the College’s undergraduate and graduate classes. You will participate in real-time sessions and take advantage of everything New York City—the design capital of the world—has to offer through virtual tours and live Q&A sessions with industry leaders.
+
+## Key Highlights
+
+* **Earn College Credits**: Seize the chance to earn one college credit applicable towards an undergraduate degree at NYSID or for inclusion in your future college applications.
+* **Hands-On Learning**: Master essential design skills such as understanding floor plans, basic drafting, developing design concepts, and creating dynamic color schemes through interactive online modules.
+* **Furniture and Material Selection:** Explore the art of selecting furniture and materials to craft spaces that reflect your desired aesthetic, all within the online realm.
+* **Virtual Showroom Explorations:** Immerse yourself in the design world through exclusive virtual tours of showrooms and design spaces, all accessible online.
+
+## Capstone Projects
+
+* **Pre-College I**: Engage in designing a small apartment through interactive online sessions.
+* **Pre-College II**: Explore crafting a virtual hospitality space, like a hotel lobby or small cafe, expanding your design portfolio. (*Pre-College I is a prerequisite for Pre-College II.)*
+
+Don't miss the chance to transform your passion into a profession through our unique Online Pre-College@NYSID program. Join us and ignite your design journey from anywhere!
+
+---
+
+## Summer Pre-College Course Descriptions
+
+### **PC 040 Pre-College: Interior Design I**
+
+*On-site & Online*
+
+Design your dream apartment! Learn the basics of furniture placement, color and textiles, lighting and putting together a whole interior design scheme. Get your first taste of what it’s like to study and practice interior design!
+
+### **PC 041 Pre-College: Interior Design II**
+
+*On-site & Online*
+
+Imagine that you’re a hospitality designer, and craft a boutique hotel lobby or small cafe.  Let your imagination soar as you come up with a design concept for a great hotel or café, and design  a cool lobby or cute eatery. (*Pre-College I is a prerequisite for Pre-College II.)*
+
+### **PC 045 Pre-College: Art and Design Portfolio Workshop**
+
+*On-site only*
+
+Through exploring a wide range of art and design disciplines, start to create your portfolio or make your own work presentation — ready for applying to schools or programs. Visit museums, galleries, and design studios for inspiration.
+
+### **PC 048 Pre-College:** Photography in the City
+
+*On-site only*
+
+Explore New York City’s great architecture while learning. Using either smartphones or digital cameras, you will capture renowned sites such as Hudson Yards, the High Line, and Central Park — no experience necessary!
+
+### 
+
+On-site courses are located at 170 East 70th Street, New York, NY 10021
+
+---
+
+## Student Testimonials
+
+### Indiana Espinosa Pembroke Pines, Florida, USA
+
+“To put the complete design together and see my vision come to life in the presentation was an incredible experience. I loved my group. Seeing everyone’s different styles motivated and inspired me”
+
+### Sammy Robles Campbell Hall, NY, USA
+
+“I have had an amazing experience at this college program, and it feels as though I have discovered a whole new world of art. I loved working on my project, and all the fascinating people I met along the way.”
+
+### Ana Clara Santos Sao Paulo, Brazil
+
+“I had been thinking of architecture for college, but through this program I have fallen in love with interior design,”
+
+### Ruby McGrath Brooklyn, NY, USA
+
+“What I really took away from this program is how complex the design process is. It’s about color, proportion, communication, light, measurement, even math! I love that the design process uses the whole brain.”
+
+---
+
+If you have questions about the Summer Pre-College program, please email us today at [precollege@nysid.edu](mailto:precollege@nysid.edu).
+
+### **New York School of Interior Design**
 
 170 East 70th Street  
-
 New York, NY 10021
 
 401 Park Avenue South  
-
 New York, NY 10016
 
-212\-472\-1500  
-
-Toll\-free: (800\) 33NYSID  
+212-472-1500  
 [info@nysid.edu](mailto:info@nysid.edu)
+
+[Exhibition Hours](https://www.nysid.edu/exhibitions)  
+Monday-Saturday, 10am-6pm
 
 ### Future Students
 
-[Academic Programs](https://www.nysid.edu/academic-programs)  
-[Tuition \& Fees](https://www.nysid.edu/tuition-fees)  
-[How to Apply](https://www.nysid.edu/apply)  
-[Admissions FAQs](https://www.nysid.edu/admissions-faqs)  
-[Continuing Education](https://www.nysid.edu/institute-for-continuing-professional-studies)  
-[Consumer Information](https://www.nysid.edu/consumer-information)
+[Academic Programs](/academic-programs)  
+[Tuition & Fees](/tuition-fees)  
+[How to Apply](/apply)  
+[Admissions FAQs](/admissions-faqs)  
+[Continuing Education](/institute-for-continuing-professional-studies)  
+[Consumer Information](/consumer-information)  
+[NYSID Policies](/nysid-policies)
 
 ### Current Students
 
-[Student Portal](http://portal.nysid.edu/)  
+[Student Portal](http://portal.nysid.edu)  
+[Tuition & Fees](/tuition-fees)  
 [Library](http://library.nysid.edu/library/)  
-[Advising](https://www.nysid.edu/advising-and-transfer-credit)  
-[Career Services](https://www.nysid.edu/career-and-internship-services)  
-[Academic Calendar](https://www.nysid.edu/academic-calendar)
+[Advising](/advising-and-transfer-credit)  
+[Career Services](/career-and-internship-services)  
+[Academic Calendar](/academic-calendar)  
+[NYSID Policies](/nysid-policies)
 
 ### Alumni
 
-[News \& Events](https://www.nysid.edu/news-and-events)  
-[Alumni](https://www.nysid.edu/alumni)  
-[Transcripts](https://www.nysid.edu/academics/registration)
+[News & Events](/news-and-events)  
+[Alumni](/alumni)  
+[Transcripts](https://tsorder.studentclearinghouse.org/school/ficecode/02069000)
 
 ### Community
 
-[Lectures \& Events](https://www.nysid.edu/news-and-events)  
-[Press Center](https://www.nysid.edu/press-center)  
-[Hire NYSID Students \& Grads](https://jobs.nysid.edu/employer)  
-[Work at NYSID](https://www.nysid.edu/work-at-nysid)
+[News & Events](/news-and-events)  
+[Atelier Magazine](/atelier)  
+[Press Center](/press-center)  
+[Hire NYSID Students & Grads](https://www.nysid.edu/career-and-internship-services/post-a-job)  
+[Work at NYSID](/work-at-nysid)  
+[Privacy Policy](/website-privacy-policy)  
+[Notice of Data Privacy Incident](/notice-of-data-privacy-incident)  
+[Staff](/staff)
 
- Copyright 2026 New York School of Interior Design  \|  Email: [info@nysid.edu](mailto:info@nysid.edu)  \|  [Privacy Policy](https://www.nysid.edu/privacy-policy)  \|  [Staff](https://www.nysid.edu/staff)
-
- 
+© 2025 New York School of Interior Design

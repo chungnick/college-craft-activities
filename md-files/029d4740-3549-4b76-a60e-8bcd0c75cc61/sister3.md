@@ -1,56 +1,72 @@
+PZ Math, PZ Math - PZMC 
 
+[Skip to main content](#maincontent)
 
-* [FACEBOOK](https://www.facebook.com/pzmath)
-* [INSTAGRAM](https://www.instagram.com/pzmathcamps/)
-* [HOME](https://pzmath.com/)
-* [CAMPS](#)
-	+ [PZMC NUMBER THEORY](https://pzmath.com/pzmc/)
-	+ [COLLEGE PREP](https://pzmath.com/college-prep/)
-* [INSTRUCTOR](https://pzmath.com/instructor/)
-* [CONTACT](https://pzmath.com/contact/)
+#
 
-* [FACEBOOK](https://www.facebook.com/pzmath)
-* [INSTAGRAM](https://www.instagram.com/pzmathcamps/)
-* [HOME](https://pzmath.com/)
-* [CAMPS](#)
-	+ [PZMC NUMBER THEORY](https://pzmath.com/pzmc/)
-	+ [COLLEGE PREP](https://pzmath.com/college-prep/)
-* [INSTRUCTOR](https://pzmath.com/instructor/)
-* [CONTACT](https://pzmath.com/contact/)
+[‌](# "main menu")
 
- 
+* [View Programs](/db/programs)
+* [Registered Institutions](/db/employers)
+* [Contact Us](https://www.mathprograms.org/db/contact)
+* [Login](https://www.mathprograms.org/db/login/top)
 
-# About Williams
+## PZ Math, PZ Math - PZMC
 
-Campers will enjoy William’s beautiful campus during their camp experience.
+**Program ID:**
 
-# About Williams
+122-PZMC [#1876]
 
-[Williams College](http://www.williams.edu/ "Williams College") is a liberal arts institution (ranked \#1 according to US News \& World Report) with approximately 2000 students.  Williams is located in the scenic Berkshires in western Massachusetts, about 3 hours from New York City and an hour from Albany.
+**Program Title:**
 
-The [Department of Mathematics \& Statistics](http://math.williams.edu/ "Department of Math & Statistics") at Williams is a lively group with award\-winning teachers and researchers.  In recent years, over 10% of each graduating class graduates with a major in mathematics; this is well over the national average of just 1\-2%.
+PZMC - PZ Math Number Theory Summer Camp
 
-The Williams College campus during the summer offers a vibrant scientific community for campers to join.  In addition to many undergraduates on campus engaging in scientific research, the college also offer a five week Summer Science Program for incoming Williams first\-years.  In addition, the campus is home to the SMALL Summer Research Program for Undergraduates, one of the largest undergraduate math research programs in the country.
+**Program Type:**
 
-“WILLIAMS COLLEGE IS NOT A SPONSOR OR CO\-SPONSOR OF THE
-  PZMC NUMBER THEORY CAMP 2026\.”
- 
+High school program
 
-“PZMC NUMBER THEORY CAMP 2024 complies with Massachusetts General Program Requirements for Youth Camps (105 CMR 430\). “
+**Program Location:**
 
-# Student Information
+Williamstown, MA, Massachusetts 01267, United States of America [[map](http://maps.google.com/maps?q=42.7145126,-73.2123727)]
 
-Participants will be housed on campus in dorm rooms (single sex floors and bathrooms) with shared bathrooms and common living areas.  Wireless internet access is available.  The participants will eat at a dining hall on campus; three all\-you\-can\-eat meals per day are included with at least one vegetarian option at each.
+**Subject Area:**
 
-Many hiking trails are within walking distance of campus.  Other nearby attractions within walking distance include the Williams College Art Museum (free admission), the Clark Art Institute, and the Williamstown Theatre Festival.  The TA’s will also act as Residential Advisors; they will be housed with the campers and organize group recreational activities for the participants, including a math\-movie night, museum trip, and scavenger hunt.
+Math (Number Theory)
 
-[Apply for PZMC number theory](https://www.mathprograms.org/db/programs/1876)
+**Appl Deadline:**
 
-[REGISTER FOR COLLEGE PREP](https://pzmath.com/registration-form/)
+2026/04/25 11:59PM (posted 2026/01/11)
 
- 
+**Program Description:**
 
-Copyright ©2022 PZ Math \| All Rights Reserved \| Designed by [Kelley Nicole Designs](http://www.kelleynicoledesigns.com)
+[**Apply**](https://www.mathprograms.org/db/122/1876/apply)
 
- 
+  
 
+### program Description
+
+PZMC (formerly run as Williams College Math Camp (WCMC) ) is a residential math camp for about 30-35 mathematically gifted high school students who have completed or are currently enrolled in Algebra 2 or its equivalent. Students will be exposed to several different areas of mathematics through colloquia and other activities, but the primary focus of the camp will be Number Theory & The Art of Mathematical Thinking. Students will learn to explore the theory of numbers by asking thoughtful questions, working out examples, looking for patterns, making conjectures, and finally, proving their results. Note that Algebra 2 is the minimum prerequisite, but many of our students have had significantly more math coursework.A typical day at math camp includes the following: group problem solving sessions, interactive lectures with ample time for student-driven mathematical discovery, a math talk by an award-winning mathematician or a panel discussion on what it’s like to major in mathematics at college, and plenty of time for fun including hiking, museum trips, planetarium visit, and a math movie night!
+
+  
+**Application Materials Required:**
+
+:   **[Submit](https://www.mathprograms.org/db?apply-122-1876) the following items online at this website to complete your application:**
+
+    * Statement of Interest* Challenge Questions* Application Form* School Transcript* Two reference letters (to be submitted online by the reference writers on this site. Letters should be submitted by 2026/04/25 11:59PM )
+
+    :   **And anything else requested in the program description.**
+
+  
+**Further Info:**
+
+[www.pzmath.com/pzmc](http://www.pzmath.com/pzmc)
+
+413-346-3101
+
+PZ Math  
+1136 Main Street  
+Williamstown, MA 01267
+
+---
+
+© 2026 MathPrograms.Org, American Mathematical Society. All Rights Reserved.

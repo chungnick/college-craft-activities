@@ -1,0 +1,704 @@
+{
+  "c9692ea3-cc4c-41ea-8715-811f8b866a1b": {
+    "step2_create_md": {
+      "error": "403 Client Error: Forbidden for url: https://sites.krieger.jhu.edu/brbt/application/",
+      "timestamp": "2026-01-15T16:57:02.677600"
+    }
+  },
+  "cba156d5-e073-4191-a1cc-2843f4debb1a": {
+    "step2_create_md": {
+      "error": "403 Client Error: Forbidden for url: https://tickle.utk.edu/future-students/pre-college/evol10/",
+      "timestamp": "2026-01-15T16:57:03.455937"
+    }
+  },
+  "d0ec2caf-817b-414b-ae5f-c4c47ee3df2a": {
+    "step2_create_md": {
+      "error": "403 Client Error: Forbidden for url: https://www.mayo.edu/research/departments-divisions/division-orthopedic-surgery/opportunities/arizona-orthopedic-internship-opportunities",
+      "timestamp": "2026-01-15T16:57:05.102841"
+    }
+  },
+  "cbc98fb4-fec6-4d04-af8f-ab971a9415f5": {
+    "step2_create_md": {
+      "error": "403 Client Error: Forbidden for url: https://www.unh.edu/continuingeducation/cats",
+      "timestamp": "2026-01-15T16:57:05.856552"
+    }
+  },
+  "d2902b74-36b0-4b92-94ed-0af9395edb2d": {
+    "step2_create_md": {
+      "error": "403 Client Error: Forbidden for url: https://occe.hms.harvard.edu/",
+      "timestamp": "2026-01-15T16:57:05.930417"
+    }
+  },
+  "d48eb0b9-7fa2-43d2-bdba-eb25ba8d50c7": {
+    "step2_create_md": {
+      "error": "403 Client Error: Forbidden for url: https://www.davidsongifted.org/gifted-programs/summer-programs/think-summer/how-to-apply/",
+      "timestamp": "2026-01-15T16:57:06.494124"
+    }
+  },
+  "d5c0d917-9893-4308-963e-43c03215d261": {
+    "step2_create_md": {
+      "error": "403 Client Error: Forbidden for url: https://www.studentcam.org/",
+      "timestamp": "2026-01-15T16:57:07.164804"
+    }
+  },
+  "d6dc4fcc-4b38-40a9-9ef9-56498e7b7fc2": {
+    "step2_create_md": {
+      "error": "403 Client Error: Forbidden for url: https://joyofcoding.eecs.umich.edu/",
+      "timestamp": "2026-01-15T16:57:07.267762"
+    }
+  },
+  "d71a2299-0bc9-4814-9c8c-4af41eafd3de": {
+    "step2_create_md": {
+      "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+      "timestamp": "2026-01-15T16:57:07.351961"
+    }
+  },
+  "d82aae82-bba5-4473-b3df-cb77f8b0b6dd": {
+    "step2_create_md": {
+      "error": "403 Client Error: Forbidden for url: https://universitycollege.tufts.edu/pre-college/browse/pre-college-program-tufts-research-experience-academic-year",
+      "timestamp": "2026-01-15T16:57:07.612078"
+    }
+  },
+  "d7a27f88-f636-4c50-83aa-a77e756dbed4": {
+    "step2_create_md": {
+      "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+      "timestamp": "2026-01-15T16:57:07.609407"
+    }
+  },
+  "da0e34bb-1544-4adf-a204-a994a62d565b": {
+    "step2_create_md": {
+      "error": "403 Client Error: Forbidden for url: https://occe.hms.harvard.edu/",
+      "timestamp": "2026-01-15T16:57:07.900181"
+    }
+  },
+  "dab3c6dc-bbe9-40a7-9898-76b76f3f2973": {
+    "step2_create_md": {
+      "error": "403 Client Error: Forbidden for url: https://www.umass.edu/uww/pre-college/mt-ida/ai-data-ethics",
+      "timestamp": "2026-01-15T16:57:09.436833"
+    }
+  },
+  "e1ce7578-5dee-49ea-b106-f799abcdff51": {
+    "step2_create_md": {
+      "error": "403 Client Error: Forbidden for url: https://www.mathworks.com/academia/student-competitions/mathworks-math-modeling-challenge.html",
+      "timestamp": "2026-01-15T16:57:09.518557"
+    }
+  },
+  "e1cf3902-8aa3-4930-a5e8-646625ad2628": {
+    "step2_create_md": {
+      "error": "403 Client Error: Forbidden for url: https://met.berkeley.edu/about-met/met-ia/",
+      "timestamp": "2026-01-15T16:57:09.444319"
+    }
+  },
+  "e78ee3d8-5145-413a-9383-ca74f63f4e10": {
+    "step2_create_md": {
+      "error": "403 Client Error: Forbidden for url: https://ddc.college.columbia.edu/content/eligibility-0",
+      "timestamp": "2026-01-15T16:57:11.041005"
+    }
+  },
+  "e8f698f1-e19b-46ce-aa1c-c9c59654cf01": {
+    "step2_create_md": {
+      "error": "403 Client Error: Forbidden for url: https://www.utep.edu/engineering/lsamp/summer%20research%20academy/",
+      "timestamp": "2026-01-15T16:57:11.555264"
+    }
+  },
+  "ec242198-c9e7-44b7-acc0-61801548d473": {
+    "step2_create_md": {
+      "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+      "timestamp": "2026-01-15T16:57:12.159467"
+    }
+  },
+  "f1aa574c-a726-4198-bcab-acc3f509fe63": {
+    "step2_create_md": {
+      "error": "403 Client Error: Forbidden for url: https://www.susqu.edu/academics/summer-pre-college-programs/",
+      "timestamp": "2026-01-15T16:57:14.602016"
+    }
+  },
+  "f4200f31-6f23-4e98-8aa2-6d96f68c5660": {
+    "step2_create_md": {
+      "error": "403 Client Error: Forbidden for url: https://engineering.jhu.edu/outreach/ceo-programs/wise/",
+      "timestamp": "2026-01-15T16:57:15.179667"
+    }
+  },
+  "fbfcb95c-6785-4adb-a504-762f274a850d": {
+    "step2_create_md": {
+      "error": "403 Client Error: Forbidden for url: https://africa.harvard.edu/inspire-precollege-program",
+      "timestamp": "2026-01-15T16:57:17.091495"
+    }
+  },
+  "fc9a0c8e-79c9-449b-8c76-25fb93ca42f3": {
+    "step2_create_md": {
+      "error": "403 Client Error: Forbidden for url: https://lamont.columbia.edu/ldeo-hudson-river-field-station/summer-high-school-opportunities",
+      "timestamp": "2026-01-15T16:57:17.394480"
+    }
+  },
+  "fd5a7a81-116b-4793-bebd-c77a6d7d10a5": {
+    "step2_create_md": {
+      "error": "403 Client Error: Forbidden for url: https://precollege.usc.edu/summer-programs/",
+      "timestamp": "2026-01-15T16:57:17.561977"
+    }
+  },
+  "fc66cff3-f4e7-4a85-8e9c-30a2f3fcecbb": {
+    "step2_create_md": {
+      "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+      "timestamp": "2026-01-15T16:57:17.524518"
+    }
+  },
+  "fe74b266-f608-43bb-a938-fc91104fd4f4": {
+    "step2_create_md": {
+      "error": "403 Client Error: Forbidden for url: https://yaledailynews.com/about-us/sjp/",
+      "timestamp": "2026-01-15T16:57:17.743184"
+    }
+  },
+  "fee3f7d9-2f77-456f-af45-602f62abd5ca": {
+    "step2_create_md": {
+      "error": "403 Client Error: Forbidden for url: https://www.longislandhighschoolforthearts.org/summer/",
+      "timestamp": "2026-01-15T16:57:17.957809"
+    }
+  },
+  "feacd716-3a9d-48b0-844d-457717afcc10": {
+    "step2_create_md": {
+      "error": "403 Client Error: Forbidden for url: https://www.abington.psu.edu/summer-camps/public-speaking",
+      "timestamp": "2026-01-15T16:57:18.178048"
+    }
+  },
+  "ffab59d8-bbba-41af-b87d-2abd6264f5c9": {
+    "step2_create_md": {
+      "error": "403 Client Error: Forbidden for url: https://ualr.edu/nanotechnology/programs/mentorship/",
+      "timestamp": "2026-01-15T16:57:18.207494"
+    }
+  },
+  "018b7359-06da-4171-be3b-9fb6b11113c0": {
+    "step2_create_md": {
+      "error": "429 Client Error: Too Many Requests for url: https://mitmuseum.mit.edu/connection/internships/teen-interns-at-the-mit-museum",
+      "timestamp": "2026-01-15T16:56:14.483317"
+    }
+  },
+  "0199050d-d3ea-4ffe-8b1c-752ff917ab44": {
+    "step2_create_md": {
+      "error": "403 Client Error: Forbidden for url: https://michiganross.umich.edu/undergraduate/summer-business-academy",
+      "timestamp": "2026-01-15T16:56:14.552211"
+    }
+  },
+  "028a69d3-eb60-4b57-9731-a7b86d78247e": {
+    "step2_create_md": {
+      "error": "403 Client Error: Forbidden for url: https://engineering.uic.edu/about/summer-special-programs/sharp-program/",
+      "timestamp": "2026-01-15T16:56:14.554059"
+    }
+  },
+  "01202af9-f632-4356-8a7d-ad7c630becde": {
+    "step2_create_md": {
+      "error": "403 Client Error: Forbidden for url: https://4h.unl.edu/big-red-camps-sessions",
+      "timestamp": "2026-01-15T16:56:14.749576"
+    }
+  },
+  "07510560-1d47-4e79-8e51-c57901292e18": {
+    "step2_create_md": {
+      "error": "403 Client Error: Forbidden for url: https://hr.harvard.edu/summer-youth-employment-program",
+      "timestamp": "2026-01-15T16:56:15.246328"
+    }
+  },
+  "070a6958-7575-4d96-94ef-19fe15a90907": {
+    "step2_create_md": {
+      "error": "403 Client Error: Forbidden for url: https://nsps.us.com/general/custom.asp?page=TrigStar",
+      "timestamp": "2026-01-15T16:56:15.371239"
+    }
+  },
+  "0a7c4a80-c01a-4fe6-b15d-3daac4ba8e6c": {
+    "step2_create_md": {
+      "error": "403 Client Error: Forbidden for url: https://drew.edu/academic/continuing-education-non-degree-programs/summer-programs/governors-school/apply/",
+      "timestamp": "2026-01-15T16:56:15.979589"
+    }
+  },
+  "0db99102-e72f-4339-93dc-a400e2e699e8": {
+    "step2_create_md": {
+      "error": "403 Client Error: Forbidden for url: https://ei.jhu.edu/programs/see-in-person/",
+      "timestamp": "2026-01-15T16:56:16.706182"
+    }
+  },
+  "0cec7151-ad72-4ba8-8af7-32a86640a45f": {
+    "step2_create_md": {
+      "error": "403 Client Error: Forbidden for url: https://byrd.osu.edu/highschoolsummerintern",
+      "timestamp": "2026-01-15T16:56:16.727865"
+    }
+  },
+  "0a980229-e994-497e-96e4-9e8638fd333a": {
+    "step2_create_md": {
+      "error": "403 Client Error: Forbidden for url: https://www.umass.edu/uww/pre-college/research-intensives/karlstrom-lab",
+      "timestamp": "2026-01-15T16:56:17.812424"
+    }
+  },
+  "112103d9-a0ea-4a4e-b28e-e3b7b0a8e1b0": {
+    "step2_create_md": {
+      "error": "403 Client Error: Forbidden for url: https://www.training.nih.gov/research-training/grads/summer-internship-program-sip/",
+      "timestamp": "2026-01-15T16:56:18.505230"
+    }
+  },
+  "142ac69d-7a8b-4a6d-a866-1a431fb1cc67": {
+    "step2_create_md": {
+      "error": "403 Client Error: Forbidden for url: https://www.jbei.org/education/research-experiences/iclem-program/",
+      "timestamp": "2026-01-15T16:56:19.558693"
+    }
+  },
+  "13d40339-2aa8-43f2-8741-749e13c30d54": {
+    "step2_create_md": {
+      "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+      "timestamp": "2026-01-15T16:56:19.649316"
+    }
+  },
+  "175c908a-4243-4c07-904a-bb39f26afa47": {
+    "step2_create_md": {
+      "error": "403 Client Error: Forbidden for url: https://www.training.nih.gov/research-training/pb/sip/",
+      "timestamp": "2026-01-15T16:56:20.201842"
+    }
+  },
+  "17873793-638d-428d-8fcc-4f3640ef9b08": {
+    "step2_create_md": {
+      "error": "403 Client Error: Forbidden for url: https://www.tellurideassociation.org/our-programs/high-school-students/",
+      "timestamp": "2026-01-15T16:56:20.229930"
+    }
+  },
+  "19b76ee4-ebd2-4e5e-99a2-9e93b1ec7b51": {
+    "step2_create_md": {
+      "error": "403 Client Error: Forbidden for url: https://precollege.usc.edu/online-programs/",
+      "timestamp": "2026-01-15T16:56:21.124387"
+    }
+  },
+  "1b6ac870-fb34-431e-9b91-0d8f4f121bc7": {
+    "step2_create_md": {
+      "error": "403 Client Error: Forbidden for url: https://www.davidsongifted.org/gifted-programs/fellows-scholarship/",
+      "timestamp": "2026-01-15T16:56:21.619498"
+    }
+  },
+  "1d7f1feb-0e48-430a-a824-2447a92505ed": {
+    "step2_create_md": {
+      "error": "403 Client Error: Forbidden for url: https://upwardbound.unc.edu/",
+      "timestamp": "2026-01-15T16:56:22.003853"
+    }
+  },
+  "1ad95379-1d0d-4e83-bc38-dd9fae2514e1": {
+    "step2_create_md": {
+      "error": "403 Client Error: Forbidden for url: https://www.amherst.edu/users/R/mjreid/test-pages/z-archived-pages/summer-humanities-and-social-science-program",
+      "timestamp": "2026-01-15T16:56:22.310853"
+    }
+  },
+  "23619c3e-3b80-4b08-85fb-c6991cd7e3fa": {
+    "step2_create_md": {
+      "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+      "timestamp": "2026-01-15T16:56:23.573037"
+    }
+  },
+  "250e6460-4a25-4707-b6aa-aa9e75ccc8c2": {
+    "step2_create_md": {
+      "error": "403 Client Error: Forbidden for url: https://psjp.princeton.edu/",
+      "timestamp": "2026-01-15T16:56:23.758330"
+    }
+  },
+  "244475ed-0d34-4f8f-a2cf-11b106c699c2": {
+    "step2_create_md": {
+      "error": "403 Client Error: Forbidden for url: https://changemaker.berkeley.edu/pre-college",
+      "timestamp": "2026-01-15T16:56:23.763753"
+    }
+  },
+  "273304d0-e56b-453d-bc82-48753cd23a49": {
+    "step2_create_md": {
+      "error": "403 Client Error: Forbidden for url: https://ctf.asu.edu/education/internship/",
+      "timestamp": "2026-01-15T16:56:23.832364"
+    }
+  },
+  "2c8977c0-6cb1-4f0d-97e8-83105a92d230": {
+    "step2_create_md": {
+      "error": "HTTPSConnectionPool(host='www.acs.org', port=443): Max retries exceeded with url: /education/students/highschool/olympiad.html (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x106370ad0>: Failed to resolve 'www.acs.org' ([Errno 8] nodename nor servname provided, or not known)\"))",
+      "timestamp": "2026-01-15T16:56:25.156631"
+    }
+  },
+  "2f350a43-7328-4a84-ac22-c6e60bf0b610": {
+    "step2_create_md": {
+      "error": "Empty content extracted from https://tabroom.com/",
+      "timestamp": "2026-01-15T16:56:26.911600"
+    }
+  },
+  "319ffafd-efb9-4771-8f73-54f1d470c17d": {
+    "step2_create_md": {
+      "error": "406 Client Error: Not Acceptable for url: https://research.rice.edu/rstem/digital-health-ys",
+      "timestamp": "2026-01-15T16:56:27.064171"
+    }
+  },
+  "3429abce-9d12-47b3-a6ef-1abd9e3e52f7": {
+    "step2_create_md": {
+      "error": "403 Client Error: Forbidden for url: https://btiscience.org/education-outreach/high-school-research-internships/apply-for-high-school-research-internships/",
+      "timestamp": "2026-01-15T16:56:27.372635"
+    }
+  },
+  "3721b167-f74b-4f1e-9302-e5bb7036bb52": {
+    "step2_create_md": {
+      "error": "403 Client Error: Forbidden for url: https://youngarts.org/apply/",
+      "timestamp": "2026-01-15T16:56:27.818144"
+    }
+  },
+  "3b99c1be-2668-4021-801a-e6a6fef10941": {
+    "step2_create_md": {
+      "error": "403 Client Error: Forbidden for url: https://cooper.edu/engineering/cooper-next-scholars-program",
+      "timestamp": "2026-01-15T16:56:29.902771"
+    }
+  },
+  "4005a9b1-1912-4d4a-912f-44a0f497760c": {
+    "step2_create_md": {
+      "error": "403 Client Error: Forbidden for url: https://www.cshl.edu/education/center-for-humanities/grants-fellowships/ellen-brenner-memorial-internship/#application-instructions",
+      "timestamp": "2026-01-15T16:56:30.497232"
+    }
+  },
+  "415203ee-9296-4d3c-9e35-41c7f744b1d1": {
+    "step2_create_md": {
+      "error": "403 Client Error: Forbidden for url: https://cultivatelearning.uw.edu/high-school-internship/",
+      "timestamp": "2026-01-15T16:56:30.720374"
+    }
+  },
+  "4306e271-7b82-4f51-8066-139130bc3dfb": {
+    "step2_create_md": {
+      "error": "403 Client Error: Forbidden for url: https://ncpa.unl.edu/high-school-scholars",
+      "timestamp": "2026-01-15T16:56:31.127163"
+    }
+  },
+  "4a8efc62-4ee0-45d9-9a95-75ea0b24bba4": {
+    "step2_create_md": {
+      "error": "403 Client Error: Forbidden for url: https://cpe.ucdavis.edu/subject-areas/environmental-sciences-programs",
+      "timestamp": "2026-01-15T16:56:32.372729"
+    }
+  },
+  "48161a49-797f-4408-a841-d550062d6404": {
+    "step2_create_md": {
+      "error": "Empty content extracted from https://competition.igem.org/",
+      "timestamp": "2026-01-15T16:56:32.643205"
+    }
+  },
+  "4b073bb3-d1f4-4cb6-87de-885e86c77a18": {
+    "step2_create_md": {
+      "error": "403 Client Error: Forbidden for url: https://sais.jhu.edu/academics/summer-programs",
+      "timestamp": "2026-01-15T16:56:32.761565"
+    }
+  },
+  "4cbf8d33-3fee-4ffe-ba53-d330c5156597": {
+    "step2_create_md": {
+      "error": "403 Client Error: Forbidden for url: https://cdo.pomona.edu/resources/rise-research-internships-in-science-and-engineering/",
+      "timestamp": "2026-01-15T16:56:33.335259"
+    }
+  },
+  "4dcffc3b-0ab6-4dec-8108-e2e87714fb19": {
+    "step2_create_md": {
+      "error": "403 Client Error: Forbidden for url: https://gtcan.princeton.edu/pupp",
+      "timestamp": "2026-01-15T16:56:33.431821"
+    }
+  },
+  "5251a94d-fe32-4808-a99a-a923a6341aa5": {
+    "step2_create_md": {
+      "error": "403 Client Error: Forbidden for url: https://unric.org/en/world-wildlife-day-youth-art-contest/",
+      "timestamp": "2026-01-15T16:56:34.410403"
+    }
+  },
+  "52df69ec-2a15-4df3-9814-24472d32491d": {
+    "step2_create_md": {
+      "error": "404 Client Error: Not Found for url: https://info.umkc.edu/stahr/scholars/high-school/",
+      "timestamp": "2026-01-15T16:56:34.634314"
+    }
+  },
+  "53114d84-8290-42ad-97ff-ef863460427a": {
+    "step2_create_md": {
+      "error": "403 Client Error: Forbidden for url: https://www.mines.edu/undergraduate-admissions/summer-multicultural-engineering-training-summet/",
+      "timestamp": "2026-01-15T16:56:34.635796"
+    }
+  },
+  "5557230d-ce9e-47ae-8391-2042735c374d": {
+    "step2_create_md": {
+      "error": "403 Client Error: Forbidden for url: https://lamont.columbia.edu/ldeo-hudson-river-field-station/summer-high-school-opportunities",
+      "timestamp": "2026-01-15T16:56:35.206161"
+    }
+  },
+  "5b9bee84-383e-4a7a-ac70-935455c1f674": {
+    "step2_create_md": {
+      "error": "403 Client Error: Forbidden for url: https://www.amherst.edu/users/R/mjreid/test-pages/z-archived-pages/summer-science-program",
+      "timestamp": "2026-01-15T16:56:37.168864"
+    }
+  },
+  "65d936d8-8360-42d7-b443-11faeade2232": {
+    "step2_create_md": {
+      "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+      "timestamp": "2026-01-15T16:56:38.613856"
+    }
+  },
+  "6ac42ebe-d5cc-44a7-b91a-ed52aa1307b2": {
+    "step2_create_md": {
+      "error": "403 Client Error: Forbidden for url: https://pccm.princeton.edu/education/more-k-12-programs/research-experience-high-school-students",
+      "timestamp": "2026-01-15T16:56:39.691740"
+    }
+  },
+  "73b3265f-6139-403e-b3bd-692ed6650fc6": {
+    "step2_create_md": {
+      "error": "403 Client Error: Forbidden for url: https://scienceoutreach.princeton.edu/laboratory-learning-program",
+      "timestamp": "2026-01-15T16:56:40.908380"
+    }
+  },
+  "73d03e03-3981-43c9-8e68-a3bd65b36e1d": {
+    "step2_create_md": {
+      "error": "403 Client Error: Forbidden for url: https://cpe.ucdavis.edu/subject-areas/veterinary-sciences-programs",
+      "timestamp": "2026-01-15T16:56:40.941293"
+    }
+  },
+  "76c44dac-0514-4c74-828d-bff7f9926e02": {
+    "step2_create_md": {
+      "error": "403 Client Error: Forbidden for url: https://bowseat.org/programs/ocean-awareness-contest/contest-overview/",
+      "timestamp": "2026-01-15T16:56:41.827978"
+    }
+  },
+  "78a2f803-fe80-45ce-8bf6-1af6a237c5f1": {
+    "step2_create_md": {
+      "error": "404 Client Error: Not Found for url: https://www.shsu.edu/academics/health-sciences/cohs-summer-camp/summer-camp",
+      "timestamp": "2026-01-15T16:56:42.717497"
+    }
+  },
+  "76340dea-dfa9-44fe-93f2-07e78f37f03f": {
+    "step2_create_md": {
+      "error": "403 Client Error: Forbidden for url: https://www.odu.edu/ails/first-star-academy",
+      "timestamp": "2026-01-15T16:56:42.769403"
+    }
+  },
+  "7acdd0ad-ae89-48c8-b6fe-81c8a08a5a9e": {
+    "step2_create_md": {
+      "error": "403 Client Error: Forbidden for url: https://zuckermaninstitute.columbia.edu/brainyac",
+      "timestamp": "2026-01-15T16:56:42.903234"
+    }
+  },
+  "7bf9ed11-9c83-4f0a-aad2-76515580c073": {
+    "step2_create_md": {
+      "error": "403 Client Error: Forbidden for url: https://stamps.umich.edu/pre-college/summer",
+      "timestamp": "2026-01-15T16:56:43.405432"
+    }
+  },
+  "7cec2b13-243d-47eb-9b1a-933c90cb8bf9": {
+    "step2_create_md": {
+      "error": "403 Client Error: Forbidden for url: https://www.ftc.edu/summer-hs/",
+      "timestamp": "2026-01-15T16:56:43.513244"
+    }
+  },
+  "7d8d869d-58b0-47aa-bbf8-086920c190ce": {
+    "step2_create_md": {
+      "error": "403 Client Error: Forbidden for url: https://science.utah.edu/u-science-camp/",
+      "timestamp": "2026-01-15T16:56:43.547060"
+    }
+  },
+  "809164a8-28e3-4cd3-ac68-7a7d93a25de0": {
+    "step2_create_md": {
+      "error": "403 Client Error: Forbidden for url: https://ai4all.princeton.edu/apply",
+      "timestamp": "2026-01-15T16:56:44.358927"
+    }
+  },
+  "826e08cb-ad02-4bef-a14c-63424ee1fada": {
+    "step2_create_md": {
+      "error": "403 Client Error: Forbidden for url: https://www.pppl.gov/high-school-summer-internship",
+      "timestamp": "2026-01-15T16:56:44.694289"
+    }
+  },
+  "83a9dc6a-eaf8-49dc-8048-8a1bdd711563": {
+    "step2_create_md": {
+      "error": "403 Client Error: Forbidden for url: https://haas.berkeley.edu/business-academy/",
+      "timestamp": "2026-01-15T16:56:44.802002"
+    }
+  },
+  "84ac440f-6f54-4a4a-bb46-67ecb434ee13": {
+    "step2_create_md": {
+      "error": "403 Client Error: Forbidden for url: https://www.chla.org/camp-chla-health-care-career-exploration",
+      "timestamp": "2026-01-15T16:56:44.872900"
+    }
+  },
+  "88634247-38bc-4e77-b02f-89542f3cb2a1": {
+    "step2_create_md": {
+      "error": "403 Client Error: Forbidden for url: https://vetmed.oregonstate.edu/osu-summer-veterinary-experience",
+      "timestamp": "2026-01-15T16:56:45.994511"
+    }
+  },
+  "9320195a-98de-4b26-be61-1b1093a2635e": {
+    "step2_create_md": {
+      "error": "403 Client Error: Forbidden for url: https://northern.virginia.edu/programs/branding-marketing/",
+      "timestamp": "2026-01-15T16:56:50.263196"
+    }
+  },
+  "92a2a5e1-ac02-4638-99fe-f4dbc64a6e86": {
+    "step2_create_md": {
+      "error": "403 Client Error: Forbidden for url: https://meded.georgetown.edu:443/high-school-summer-internships/summer-medical-institute/",
+      "timestamp": "2026-01-15T16:56:50.353719"
+    }
+  },
+  "94a40954-1bbd-44f0-ba56-d799837109fe": {
+    "step2_create_md": {
+      "error": "403 Client Error: Forbidden for url: https://northern.virginia.edu/programs/forensic-science/",
+      "timestamp": "2026-01-15T16:56:50.577636"
+    }
+  },
+  "9479c0e9-4eb4-4131-984d-1a30a2ae99bf": {
+    "step2_create_md": {
+      "error": "403 Client Error: Forbidden for url: https://summer.jhu.edu/",
+      "timestamp": "2026-01-15T16:56:50.581533"
+    }
+  },
+  "94dff1db-d825-4311-9ae7-7a6c67c7c277": {
+    "step2_create_md": {
+      "error": "403 Client Error: Forbidden for url: https://www.iacompetitions.com/",
+      "timestamp": "2026-01-15T16:56:50.761102"
+    }
+  },
+  "969f5a5a-3689-43f2-8fbc-ce35078bfdde": {
+    "step2_create_md": {
+      "error": "403 Client Error: Forbidden for url: https://sites.lsa.umich.edu/mmss/",
+      "timestamp": "2026-01-15T16:56:50.956397"
+    }
+  },
+  "97601b54-2e45-47a6-9b84-591bd8ef1b70": {
+    "step2_create_md": {
+      "error": "403 Client Error: Forbidden for url: https://outreach.engineering.columbia.edu/content/shape-summer-high-school-academic-program-engineers",
+      "timestamp": "2026-01-15T16:56:51.249810"
+    }
+  },
+  "9705a413-eb33-4323-a51b-441ddc0778c6": {
+    "step2_create_md": {
+      "error": "404 Client Error: Not Found for url: https://www.umkc.edu/professional-career-escalators/career-u/",
+      "timestamp": "2026-01-15T16:56:51.334960"
+    }
+  },
+  "9a5204b4-efad-4452-b2ad-0536241958b3": {
+    "step2_create_md": {
+      "error": "403 Client Error: Forbidden for url: https://cpe.ucdavis.edu/subject-areas/business-and-technology-programs",
+      "timestamp": "2026-01-15T16:56:51.601075"
+    }
+  },
+  "9ffecd5c-81e6-4dff-8ec7-9833cd566e6e": {
+    "step2_create_md": {
+      "error": "403 Client Error: Forbidden for url: https://meded.georgetown.edu:443/high-school-summer-internships/gep/",
+      "timestamp": "2026-01-15T16:56:52.900072"
+    }
+  },
+  "a13d66db-f97d-4b4b-96eb-1a542a58dbe9": {
+    "step2_create_md": {
+      "error": "403 Client Error: Forbidden for url: https://ei.jhu.edu/programs/bmei-online/",
+      "timestamp": "2026-01-15T16:56:53.293716"
+    }
+  },
+  "a0a88933-2271-440d-9fe1-f775ec6aec43": {
+    "step2_create_md": {
+      "error": "404 Client Error: Not Found for url: https://sites.google.com/dartmouth.edu/jsep2020/how-to-apply/jsep-students/u-s",
+      "timestamp": "2026-01-15T16:56:53.436655"
+    }
+  },
+  "a21a7229-d536-4978-9ed8-cd3850940b4c": {
+    "step2_create_md": {
+      "error": "403 Client Error: Forbidden for url: https://cpe.ucdavis.edu/subject-areas/medical-and-health-programs",
+      "timestamp": "2026-01-15T16:56:53.488579"
+    }
+  },
+  "a2f4ba27-ec89-4cfc-ad9f-02077a698b5a": {
+    "step2_create_md": {
+      "error": "403 Client Error: Forbidden for url: https://www.amnh.org/learn-teach/teens/science-research-mentoring-program",
+      "timestamp": "2026-01-15T16:56:53.828184"
+    }
+  },
+  "a9672d7d-2899-4a0f-ad1c-261a9483579c": {
+    "step2_create_md": {
+      "error": "403 Client Error: Forbidden for url: https://architecture.unl.edu/high-school-camp",
+      "timestamp": "2026-01-15T16:56:55.312959"
+    }
+  },
+  "ab1f2a7c-4365-4bde-953f-10c972a885b8": {
+    "step2_create_md": {
+      "error": "403 Client Error: Forbidden for url: https://northern.virginia.edu/programs/mcintire_business_institute/",
+      "timestamp": "2026-01-15T16:56:55.582014"
+    }
+  },
+  "b92457f4-eef6-4c44-8f2d-ce41420acd24": {
+    "step2_create_md": {
+      "error": "403 Client Error: Forbidden for url: https://northern.virginia.edu/programs/creative-writing/",
+      "timestamp": "2026-01-15T16:56:58.730635"
+    }
+  },
+  "ba3c0739-fadd-4e97-aabb-b4df027b5beb": {
+    "step2_create_md": {
+      "error": "403 Client Error: Forbidden for url: https://universitycollege.tufts.edu/pre-college/browse/tufts-college-accelerator",
+      "timestamp": "2026-01-15T16:56:59.244887"
+    }
+  },
+  "bb60c2a5-8fc7-4925-9750-1f9ac289b951": {
+    "step2_create_md": {
+      "error": "403 Client Error: Forbidden for url: https://ctf.asu.edu/education/internship/",
+      "timestamp": "2026-01-15T16:56:59.331620"
+    }
+  },
+  "bac3a3a2-f98b-48f6-830b-08bb84039d56": {
+    "step2_create_md": {
+      "error": "403 Client Error: Forbidden for url: https://mez.engin.umich.edu/qualcomm-thinkabit-lab/thinkabit-summer-camp/",
+      "timestamp": "2026-01-15T16:56:59.536272"
+    }
+  },
+  "be871a5a-72cd-4928-9231-db8869545ef2": {
+    "step2_create_md": {
+      "error": "403 Client Error: Forbidden for url: https://www.cityofhope.org/academics/irell-and-manella-graduate-school-of-biological-sciences/summer-student-academy",
+      "timestamp": "2026-01-15T16:57:00.394531"
+    }
+  },
+  "bef76046-adf6-403f-b1cc-d99018746e9a": {
+    "step2_create_md": {
+      "error": "403 Client Error: Forbidden for url: https://cpe.ucdavis.edu/subject-areas/summer-pre-college-programs",
+      "timestamp": "2026-01-15T16:57:00.407197"
+    }
+  },
+  "c1793f58-ad5f-484a-9dab-bcd0c3086047": {
+    "step2_create_md": {
+      "error": "403 Client Error: Forbidden for url: https://education.ornl.gov/sage-faqs/",
+      "timestamp": "2026-01-15T16:57:00.805628"
+    }
+  },
+  "c0d0eac4-470f-46c3-bb79-d3d4d5da9111": {
+    "step2_create_md": {
+      "error": "403 Client Error: Forbidden for url: https://jmp.princeton.edu/academic-initiatives/summer-programs",
+      "timestamp": "2026-01-15T16:57:00.847813"
+    }
+  },
+  "c28ab076-3a34-4794-9e36-ea7f8a07c215": {
+    "step2_create_md": {
+      "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+      "timestamp": "2026-01-15T16:57:01.465898"
+    }
+  },
+  "c5a79760-743d-4539-95d1-4986bc06a6e9": {
+    "step2_create_md": {
+      "error": "403 Client Error: Forbidden for url: https://www.scad.edu/academics/pre-college-programs/scad-rising-star",
+      "timestamp": "2026-01-15T16:57:01.618286"
+    }
+  },
+  "c983c8f4-77ab-42bd-ae9b-f255dab5487c": {
+    "step2_create_md": {
+      "error": "403 Client Error: Forbidden for url: https://www.historyolympiad.com/",
+      "timestamp": "2026-01-15T16:57:02.667548"
+    }
+  },
+  "de9cfe0c-690f-403a-8e80-12e021397c2d": {
+    "step2_create_md": {
+      "error": "Empty content extracted from https://www.lanl.gov/careers/career-options/student-internships/high-school/index.php",
+      "timestamp": "2026-01-15T16:57:08.860587"
+    }
+  },
+  "fdd1a02d-e028-4f94-8c15-47c86bef355a": {
+    "step2_create_md": {
+      "error": "Empty content extracted from https://dbbs.wustl.edu/items/young-scientist-program-ysp/",
+      "timestamp": "2026-01-15T16:57:17.672211"
+    }
+  },
+  "224e8551-535c-4420-9a8f-a576481f3619": {
+    "step4_6_orchestrator": {
+      "error": "'list' object is not a mapping",
+      "timestamp": "2026-01-15T17:18:11.762468"
+    }
+  },
+  "2757675f-0518-49ec-a24c-d4a729a5c2ec": {
+    "step4_6_orchestrator": {
+      "error": "'list' object is not a mapping",
+      "timestamp": "2026-01-15T17:24:33.256681"
+    }
+  }
+}

@@ -1,13 +1,6 @@
-
-
 [Skip to site content](#main-content)
 
-* 
-* 
-* 
-* 
-
- Quick Links 
+Quick Links 
 
 * [MyUD](https://my.udel.edu/ "MyUD")
 * [Maps](http://www1.udel.edu/maps/ "Maps")
@@ -15,21 +8,16 @@
 * [Email](https://www1.udel.edu/mail/ "Email")
 * [Careers](https://www.udel.edu/faculty-staff/human-resources/careers/ "Careers")
 * [Library](https://library.udel.edu "Library")
-* [A\-Z Index](/home/a-z/ "A-Z Index")
+* [A-Z Index](/home/a-z/ "A-Z Index")
 * [News](/udaily/ "News")
 * [Events](https://events.udel.edu "Events")
 * [Safety at UD](/students/safety/ "Safety at UD")
 
 Close
 
-[Arts \& Sciences](/content/udel/en/academics/colleges/cas) 
+[Arts & Sciences](/content/udel/en/academics/colleges/cas)
 
-* 
-* 
-* 
-* 
-
- Quick Links 
+Quick Links 
 
 * [MyUD](https://my.udel.edu/ "MyUD")
 * [Maps](http://www1.udel.edu/maps/ "Maps")
@@ -37,82 +25,82 @@ Close
 * [Email](https://www1.udel.edu/mail/ "Email")
 * [Careers](https://www.udel.edu/faculty-staff/human-resources/careers/ "Careers")
 * [Library](https://library.udel.edu "Library")
-* [A\-Z Index](/home/a-z/ "A-Z Index")
+* [A-Z Index](/home/a-z/ "A-Z Index")
 * [News](/udaily/ "News")
 * [Events](https://events.udel.edu "Events")
 * [Safety at UD](/students/safety/ "Safety at UD")
 
 * [About Us](/academics/colleges/cas/about-us/)
-	+ [College Leadership](/academics/colleges/cas/about-us/college-leadership/)
-	+ [Dean's Advisory Council](/academics/colleges/cas/about-us/deans-advisory-council/)
-	+ [Diversity, Equity and Inclusion](/academics/colleges/cas/about-us/cas-dei/)
-	+ [CAS Social Media](/academics/colleges/cas/about-us/social-media-accounts/)
-	+ [Contact Us](/academics/colleges/cas/about-us/contact-us/)
+  + [College Leadership](/academics/colleges/cas/about-us/college-leadership/)
+  + [Dean's Advisory Council](/academics/colleges/cas/about-us/deans-advisory-council/)
+  + [Diversity, Equity and Inclusion](/academics/colleges/cas/about-us/cas-dei/)
+  + [CAS Social Media](/academics/colleges/cas/about-us/social-media-accounts/)
+  + [Contact Us](/academics/colleges/cas/about-us/contact-us/)
 * [Prospective Students](/academics/colleges/cas/prospective-students/)
-	+ [Undergraduate Programs](/academics/colleges/cas/prospective-students/undergraduate-programs/)
-	+ [Graduate Programs](/academics/colleges/cas/prospective-students/graduate-programs/)
-	+ [Transfer Students](/academics/colleges/cas/prospective-students/transfer-students/)
-	+ [Visit Us](/academics/colleges/cas/prospective-students/visit-us/)
+  + [Undergraduate Programs](/academics/colleges/cas/prospective-students/undergraduate-programs/)
+  + [Graduate Programs](/academics/colleges/cas/prospective-students/graduate-programs/)
+  + [Transfer Students](/academics/colleges/cas/prospective-students/transfer-students/)
+  + [Visit Us](/academics/colleges/cas/prospective-students/visit-us/)
 * [Current Students](/academics/colleges/cas/current-students/)
-	+ [Student Success Center](/academics/colleges/cas/current-students/student-success-center/)
-	+ [Student Scholar Programs](/academics/colleges/cas/current-students/student-scholar-programs/)
-	+ [Accelerated Degrees (4\+1 Programs)](/academics/colleges/cas/current-students/accelerated-degrees/)
-	+ [Certificate Programs](/academics/colleges/cas/current-students/certificates/)
+  + [Student Success Center](/academics/colleges/cas/current-students/student-success-center/)
+  + [Student Scholar Programs](/academics/colleges/cas/current-students/student-scholar-programs/)
+  + [Accelerated Degrees (4+1 Programs)](/academics/colleges/cas/current-students/accelerated-degrees/)
+  + [Certificate Programs](/academics/colleges/cas/current-students/certificates/)
 * [Academics](/academics/colleges/cas/units/)
-	+ [Our Departments](/academics/colleges/cas/units/departments/)
-	+ [Centers and Programs](/academics/colleges/cas/units/centers-and-programs/)
-	+ [Associate in Arts Program](/academics/colleges/cas/units/associate-in-arts-program/)
-	+ [Secondary Education](/academics/colleges/cas/units/secondary-education/)
-	+ [English Language Institute](/academics/colleges/cas/units/eli/)
-* [News \& Events](/academics/colleges/cas/news-events/)
-	+ [Arts at UD](/academics/colleges/cas/news-events/arts-at-ud/)
-	+ [Annual Lectures and Symposia](/academics/colleges/cas/news-events/annual-lectures-and-symposia/)
-	+ [In the News](/academics/colleges/cas/news-events/news/)
-	+ [CAS Graduation Season](/academics/colleges/cas/news-events/graduation/)
-* [Research \& Innovation](/academics/colleges/cas/research-innovation/)
-	+ [Plastino Scholars](/academics/colleges/cas/research-innovation/plastino-scholars/)
-	+ [Research News](/academics/colleges/cas/research-innovation/research-news/)
-	+ [Publications](/academics/colleges/cas/research-innovation/publications/)
-* [Alumni \& Friends](/academics/colleges/cas/alumni-friends/)
-	+ [Alumni Awards](/academics/colleges/cas/alumni-friends/alumni-awards/)
-	+ [Make A Gift](/academics/colleges/cas/alumni-friends/giving/)
-	+ [The Cornerstone Newsletter](/academics/colleges/cas/alumni-friends/the-cornerstone/)
+  + [Our Departments](/academics/colleges/cas/units/departments/)
+  + [Centers and Programs](/academics/colleges/cas/units/centers-and-programs/)
+  + [Associate in Arts Program](/academics/colleges/cas/units/associate-in-arts-program/)
+  + [Secondary Education](/academics/colleges/cas/units/secondary-education/)
+  + [English Language Institute](/academics/colleges/cas/units/eli/)
+* [News & Events](/academics/colleges/cas/news-events/)
+  + [Arts at UD](/academics/colleges/cas/news-events/arts-at-ud/)
+  + [Annual Lectures and Symposia](/academics/colleges/cas/news-events/annual-lectures-and-symposia/)
+  + [In the News](/academics/colleges/cas/news-events/news/)
+  + [CAS Graduation Season](/academics/colleges/cas/news-events/graduation/)
+* [Research & Innovation](/academics/colleges/cas/research-innovation/)
+  + [Plastino Scholars](/academics/colleges/cas/research-innovation/plastino-scholars/)
+  + [Research News](/academics/colleges/cas/research-innovation/research-news/)
+  + [Publications](/academics/colleges/cas/research-innovation/publications/)
+* [Alumni & Friends](/academics/colleges/cas/alumni-friends/)
+  + [Alumni Awards](/academics/colleges/cas/alumni-friends/alumni-awards/)
+  + [Make A Gift](/academics/colleges/cas/alumni-friends/giving/)
+  + [The Cornerstone Newsletter](/academics/colleges/cas/alumni-friends/the-cornerstone/)
 
 * [About Us](/academics/colleges/cas/about-us/)
-	+ [College Leadership](/academics/colleges/cas/about-us/college-leadership/)
-	+ [Dean's Advisory Council](/academics/colleges/cas/about-us/deans-advisory-council/)
-	+ [Diversity, Equity and Inclusion](/academics/colleges/cas/about-us/cas-dei/)
-	+ [CAS Social Media](/academics/colleges/cas/about-us/social-media-accounts/)
-	+ [Contact Us](/academics/colleges/cas/about-us/contact-us/)
+  + [College Leadership](/academics/colleges/cas/about-us/college-leadership/)
+  + [Dean's Advisory Council](/academics/colleges/cas/about-us/deans-advisory-council/)
+  + [Diversity, Equity and Inclusion](/academics/colleges/cas/about-us/cas-dei/)
+  + [CAS Social Media](/academics/colleges/cas/about-us/social-media-accounts/)
+  + [Contact Us](/academics/colleges/cas/about-us/contact-us/)
 * [Prospective Students](/academics/colleges/cas/prospective-students/)
-	+ [Undergraduate Programs](/academics/colleges/cas/prospective-students/undergraduate-programs/)
-	+ [Graduate Programs](/academics/colleges/cas/prospective-students/graduate-programs/)
-	+ [Transfer Students](/academics/colleges/cas/prospective-students/transfer-students/)
-	+ [Visit Us](/academics/colleges/cas/prospective-students/visit-us/)
+  + [Undergraduate Programs](/academics/colleges/cas/prospective-students/undergraduate-programs/)
+  + [Graduate Programs](/academics/colleges/cas/prospective-students/graduate-programs/)
+  + [Transfer Students](/academics/colleges/cas/prospective-students/transfer-students/)
+  + [Visit Us](/academics/colleges/cas/prospective-students/visit-us/)
 * [Current Students](/academics/colleges/cas/current-students/)
-	+ [Student Success Center](/academics/colleges/cas/current-students/student-success-center/)
-	+ [Student Scholar Programs](/academics/colleges/cas/current-students/student-scholar-programs/)
-	+ [Accelerated Degrees (4\+1 Programs)](/academics/colleges/cas/current-students/accelerated-degrees/)
-	+ [Certificate Programs](/academics/colleges/cas/current-students/certificates/)
+  + [Student Success Center](/academics/colleges/cas/current-students/student-success-center/)
+  + [Student Scholar Programs](/academics/colleges/cas/current-students/student-scholar-programs/)
+  + [Accelerated Degrees (4+1 Programs)](/academics/colleges/cas/current-students/accelerated-degrees/)
+  + [Certificate Programs](/academics/colleges/cas/current-students/certificates/)
 * [Academics](/academics/colleges/cas/units/)
-	+ [Our Departments](/academics/colleges/cas/units/departments/)
-	+ [Centers and Programs](/academics/colleges/cas/units/centers-and-programs/)
-	+ [Associate in Arts Program](/academics/colleges/cas/units/associate-in-arts-program/)
-	+ [Secondary Education](/academics/colleges/cas/units/secondary-education/)
-	+ [English Language Institute](/academics/colleges/cas/units/eli/)
-* [News \& Events](/academics/colleges/cas/news-events/)
-	+ [Arts at UD](/academics/colleges/cas/news-events/arts-at-ud/)
-	+ [Annual Lectures and Symposia](/academics/colleges/cas/news-events/annual-lectures-and-symposia/)
-	+ [In the News](/academics/colleges/cas/news-events/news/)
-	+ [CAS Graduation Season](/academics/colleges/cas/news-events/graduation/)
-* [Research \& Innovation](/academics/colleges/cas/research-innovation/)
-	+ [Plastino Scholars](/academics/colleges/cas/research-innovation/plastino-scholars/)
-	+ [Research News](/academics/colleges/cas/research-innovation/research-news/)
-	+ [Publications](/academics/colleges/cas/research-innovation/publications/)
-* [Alumni \& Friends](/academics/colleges/cas/alumni-friends/)
-	+ [Alumni Awards](/academics/colleges/cas/alumni-friends/alumni-awards/)
-	+ [Make A Gift](/academics/colleges/cas/alumni-friends/giving/)
-	+ [The Cornerstone Newsletter](/academics/colleges/cas/alumni-friends/the-cornerstone/)
+  + [Our Departments](/academics/colleges/cas/units/departments/)
+  + [Centers and Programs](/academics/colleges/cas/units/centers-and-programs/)
+  + [Associate in Arts Program](/academics/colleges/cas/units/associate-in-arts-program/)
+  + [Secondary Education](/academics/colleges/cas/units/secondary-education/)
+  + [English Language Institute](/academics/colleges/cas/units/eli/)
+* [News & Events](/academics/colleges/cas/news-events/)
+  + [Arts at UD](/academics/colleges/cas/news-events/arts-at-ud/)
+  + [Annual Lectures and Symposia](/academics/colleges/cas/news-events/annual-lectures-and-symposia/)
+  + [In the News](/academics/colleges/cas/news-events/news/)
+  + [CAS Graduation Season](/academics/colleges/cas/news-events/graduation/)
+* [Research & Innovation](/academics/colleges/cas/research-innovation/)
+  + [Plastino Scholars](/academics/colleges/cas/research-innovation/plastino-scholars/)
+  + [Research News](/academics/colleges/cas/research-innovation/research-news/)
+  + [Publications](/academics/colleges/cas/research-innovation/publications/)
+* [Alumni & Friends](/academics/colleges/cas/alumni-friends/)
+  + [Alumni Awards](/academics/colleges/cas/alumni-friends/alumni-awards/)
+  + [Make A Gift](/academics/colleges/cas/alumni-friends/giving/)
+  + [The Cornerstone Newsletter](/academics/colleges/cas/alumni-friends/the-cornerstone/)
 
 1. [UD Home](/home/)
 2. [Academics](/academics/colleges/cas/units/)
@@ -124,59 +112,57 @@ Close
 
 [English Language Institute](/content/udel/en/academics/colleges/cas/units/eli)
 
-* [Apply to ELI](/academics/colleges/cas/units/eli/apply/) 
+* [Apply to ELI](/academics/colleges/cas/units/eli/apply/)
 
-	+ [Sponsorship Recommendation](/academics/colleges/cas/units/eli/apply/sponsorship-letter-recommendation/)
-* [About Us](/academics/colleges/cas/units/eli/about-us/) 
+  + [Sponsorship Recommendation](/academics/colleges/cas/units/eli/apply/sponsorship-letter-recommendation/)
+* [About Us](/academics/colleges/cas/units/eli/about-us/)
 
-	+ [Accreditation and Standards](/academics/colleges/cas/units/eli/about-us/accredidation-standards/)
-	+ [Frequently Asked Questions](/academics/colleges/cas/units/eli/about-us/faq/)
+  + [Accreditation and Standards](/academics/colleges/cas/units/eli/about-us/accredidation-standards/)
+  + [Frequently Asked Questions](/academics/colleges/cas/units/eli/about-us/faq/)
 * [Our People](/academics/colleges/cas/units/eli/our-people/)
 * [Our Programs](/academics/colleges/cas/units/eli/our-programs/)
-* [Students](/academics/colleges/cas/units/eli/students/) 
+* [Students](/academics/colleges/cas/units/eli/students/)
 
-	+ [Arrival Information](/academics/colleges/cas/units/eli/students/arrival-information/)
-	+ [Health Insurance](/academics/colleges/cas/units/eli/students/health-insurance/) 
-	
-		- [Immunizations and Medical Tests](/academics/colleges/cas/units/eli/students/health-insurance/immunizations/)
-	+ [Housing](/academics/colleges/cas/units/eli/students/housing/) 
-	
-		- [Housing Fees](/academics/colleges/cas/units/eli/students/housing/housing-fees/)
-		- [Homestay](/academics/colleges/cas/units/eli/students/housing/homestay/)
-		- [Housing Vocabulary](/academics/colleges/cas/units/eli/students/housing/housing-vocabulary/)
-		- [Housing Terms \& Conditions](/academics/colleges/cas/units/eli/students/housing/housing-terms-conditions/)
-	+ [Get Involved](/academics/colleges/cas/units/eli/students/get-involved/)
-	+ [Dining Options](/academics/colleges/cas/units/eli/students/dining/)
-	+ [Financial Information](/academics/colleges/cas/units/eli/students/financials/)
-	+ [Scholarships](/academics/colleges/cas/units/eli/students/scholarships/)
-	+ [ELI Resource Guide](/academics/colleges/cas/units/eli/students/resource-guide/)
-	+ [Conducting Research](/academics/colleges/cas/units/eli/students/conducting-research/)
+  + [Arrival Information](/academics/colleges/cas/units/eli/students/arrival-information/)
+  + [Health Insurance](/academics/colleges/cas/units/eli/students/health-insurance/)
+
+    - [Immunizations and Medical Tests](/academics/colleges/cas/units/eli/students/health-insurance/immunizations/)
+  + [Housing](/academics/colleges/cas/units/eli/students/housing/)
+
+    - [Housing Fees](/academics/colleges/cas/units/eli/students/housing/housing-fees/)
+    - [Homestay](/academics/colleges/cas/units/eli/students/housing/homestay/)
+    - [Housing Vocabulary](/academics/colleges/cas/units/eli/students/housing/housing-vocabulary/)
+    - [Housing Terms & Conditions](/academics/colleges/cas/units/eli/students/housing/housing-terms-conditions/)
+  + [Get Involved](/academics/colleges/cas/units/eli/students/get-involved/)
+  + [Dining Options](/academics/colleges/cas/units/eli/students/dining/)
+  + [Financial Information](/academics/colleges/cas/units/eli/students/financials/)
+  + [Scholarships](/academics/colleges/cas/units/eli/students/scholarships/)
+  + [ELI Resource Guide](/academics/colleges/cas/units/eli/students/resource-guide/)
+  + [Conducting Research](/academics/colleges/cas/units/eli/students/conducting-research/)
 * [Resources for Alumni](/academics/colleges/cas/units/eli/resources-alumni/)
 * [Agent Portal](https://sites.udel.edu/agents/)
 * [Make a Gift](/academics/colleges/cas/units/eli/make-gift/)
 * [Contact Us](/academics/colleges/cas/units/eli/contact-us/)
 
-### [Apply for Level Up
- 
- \>](https://apply.udel.edu/register/?id=ece0b1ff-4d37-4de5-9f50-c0649f0cf3b8)
+### [Apply for Level Up >](https://apply.udel.edu/register/?id=ece0b1ff-4d37-4de5-9f50-c0649f0cf3b8)
 
 ## Level up your skills
 
 ### Leadership and academic writing enhancement program for high school students
 
-Spend three weeks improving your college readiness skills while learning about U.S. culture! Hosted by the English Language Institute at the University of Delaware, Level Up Academics is a fun and skill\-building short\-term program that combines high\-quality instruction with leadership, presentation, research, and college entrance essay writing skill development. If you study in an IB high school program, you have the possibility of working toward your CAS requirements! Level Up Academics includes several excursions, allowing students to visit important cultural and historical sites on the East Coast of the U.S.  
+Spend three weeks improving your college readiness skills while learning about U.S. culture! Hosted by the English Language Institute at the University of Delaware, Level Up Academics is a fun and skill-building short-term program that combines high-quality instruction with leadership, presentation, research, and college entrance essay writing skill development. If you study in an IB high school program, you have the possibility of working toward your CAS requirements! Level Up Academics includes several excursions, allowing students to visit important cultural and historical sites on the East Coast of the U.S.
 
-All students are protected under UD’s [Protection of Minors Policy](https://sites.udel.edu/oei/protection-of-minors-policy/ "Link to web page: Protection of Minors on Campus, Office of Equity and Inclusion, University of Delaware"). To learn more about Level Up Academics or for help with the admissions process, please contact [eli\-admissions@udel.edu](mailto:eli-admissions@udel.edu "Email English Language Institute Admissions").
+All students are protected under UD’s [Protection of Minors Policy](https://sites.udel.edu/oei/protection-of-minors-policy/ "Link to web page: Protection of Minors on Campus, Office of Equity and Inclusion, University of Delaware"). To learn more about Level Up Academics or for help with the admissions process, please contact [eli-admissions@udel.edu](mailto:eli-admissions@udel.edu "Email English Language Institute Admissions").
 
 About Delaware
 
-The English Language Institute (ELI) is an academic unit of the University of Delaware’s College of Arts and Sciences and has a long tradition of providing high\-quality intensive English programs to international students and professionals from around the world.
+The English Language Institute (ELI) is an academic unit of the University of Delaware’s College of Arts and Sciences and has a long tradition of providing high-quality intensive English programs to international students and professionals from around the world.
 
 [Learn more about our location](/content/udel/en/academics/colleges/cas/units/eli/about-us)
 
 ### Requirements
 
-Students must have intermediate\-advanced levels of proficiency (5\.0 or higher on the IELTS, a 55 TOEFL or 85 or higher on Duolingo). If students place lower, they can participate in the [Language Adventure USA](https://www.udel.edu/academics/colleges/cas/units/eli/our-programs/language-adventure-usa/) program.
+Students must have intermediate-advanced levels of proficiency (5.0 or higher on the IELTS, a 55 TOEFL or 85 or higher on Duolingo). If students place lower, they can participate in the [Language Adventure USA](https://www.udel.edu/academics/colleges/cas/units/eli/our-programs/language-adventure-usa/) program.
 
 Level Up Academics is meant for high school students, 15 to 17 years old. If you are older than 18 years, we encourage you to enroll in [Intensive English Program](/academics/colleges/cas/units/eli/our-programs/intensive-english-program/ "Link to web page: Intensive English Program, English Language Institute, University of Delaware") or our [English and American Culture](# "Link to web page: English and American Culture, English Language Institute, University of Delaware") program.
 
@@ -198,9 +184,9 @@ Level Up Academics is meant for high school students, 15 to 17 years old. If you
 
 \*Scholarships may be available upon request.
 
-\*NOTE: Chaperones are responsible for their own costs unless prior arrangements are made with ELI. 
+\*NOTE: Chaperones are responsible for their own costs unless prior arrangements are made with ELI.
 
-[#### What is included in the price?](#5767350)
+[#### What is included in the price?](#9054340)
 
 | **Included** | **Details** |
 | --- | --- |
@@ -215,13 +201,13 @@ Level Up Academics is meant for high school students, 15 to 17 years old. If you
 | **Activities** | Afternoon and evening activities include hikes, picnics, tournaments, concerts and sports games. |
 | **Writing Skills Acquired** | Students who complete their writing course will either have a completed college entrance essay or a digital project they could include in a portfolio to show the research writing skills they have acquired. |
 
-[#### What is not included in the price?](#5767351)
+[#### What is not included in the price?](#9054341)
 
 | Not Included | Details |
 | --- | --- |
-| **Visa fee** | Citizens of countries that participate in the US Visa Waiver Program will pay an [ESTA fee](https://esta.cbp.dhs.gov/ "Link to external website: Official ESTA Application, U.S. Customs and Border Protection, Official Website of the Department of Homeland Security ") to U.S. Customs and Border Protection of approximately US $21\. |
+| **Visa fee** | Citizens of countries that participate in the US Visa Waiver Program will pay an [ESTA fee](https://esta.cbp.dhs.gov/ "Link to external website: Official ESTA Application, U.S. Customs and Border Protection, Official Website of the Department of Homeland Security ") to U.S. Customs and Border Protection of approximately US $21. |
 | **Airfare** | Students are required to pay for their plane ticket to travel to/from Philadelphia. |
-| **Health Insurance** | Health insurance is not included through the ELI or University of Delaware. If you need medical support, there are well\-staffed urgent care teams in the area that you can access for a fee. |
+| **Health Insurance** | Health insurance is not included through the ELI or University of Delaware. If you need medical support, there are well-staffed urgent care teams in the area that you can access for a fee. |
 | **Spending money** | Remember, Delaware has no sales tax on most purchases. |
 
 ## What do Level Up Students do every day?
@@ -236,13 +222,9 @@ Ice cream
 
 Events
 
-1. 
-2. 
-3. 
-
 ### Afternoon schedule
 
-Every afternoon, Level Up Academics students have programming from approximately 2 to 5 p.m. that includes a variety of activities — on and off campus. 
+Every afternoon, Level Up Academics students have programming from approximately 2 to 5 p.m. that includes a variety of activities — on and off campus.
 
 ### Sample Weekday Schedule
 
@@ -261,8 +243,8 @@ Every afternoon, Level Up Academics students have programming from approximate
 
 A variety of activities are available to English Language Institute students:
 
-* Optional Hub Programs: Extensive reading books, conversation couch, e\-game stations and tutors.
-* ELI Activities: Structured or guided activities in the afternoons and evenings, including [International Coffee Hour](/academics/global/signature-programs/special-events/coffee-hour/ "Link to web page: International Coffee Hour, Center for Global Programs & Services, University of Delaware"), hikes, concerts, local attractions, pool party, movie\-viewing party, picnic, team\-building challenges, ice\-cream making, trail hiking, painting party (with instruction), guitar club/American music, intro to photography, downtown photo scavenger hunt.
+* Optional Hub Programs: Extensive reading books, conversation couch, e-game stations and tutors.
+* ELI Activities: Structured or guided activities in the afternoons and evenings, including [International Coffee Hour](/academics/global/signature-programs/special-events/coffee-hour/ "Link to web page: International Coffee Hour, Center for Global Programs & Services, University of Delaware"), hikes, concerts, local attractions, pool party, movie-viewing party, picnic, team-building challenges, ice-cream making, trail hiking, painting party (with instruction), guitar club/American music, intro to photography, downtown photo scavenger hunt.
 * Activities around campus: gym, weights, indoor track, pool, table tennis, badminton, basketball and volleyball. The Hen Zone at UD's [Perkins Student Center](https://sites.udel.edu/usc/buildings/perkins/ "Link to website: Perkins Student Center, Division of Student Life, University of Delaware") has billiards, video games, board games, table tennis and Quad Air Hockey.
 
 [Learn more about Getting Involved](/academics/colleges/cas/units/eli/students/get-involved/ "Link to web page: Get involved, English Language Institute, University of Delaware")
@@ -287,65 +269,45 @@ Rehoboth Beach boardwalk
 
 Rehoboth Beach, Delaware
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-
 ## ACCOMMODATIONS
 
-The English Language Institute coordinates housing for students in short\-term programs like Level Up Academics.
+The English Language Institute coordinates housing for students in short-term programs like Level Up Academics.
 
 [Learn more about housing](/academics/colleges/cas/units/eli/students/housing/ "Link to web page: Housing, English Language Institute, University of Delaware")
 
 ## Apply
 
-Applying for Level Up Academics is easy! Simply follow these instructions. Questions? Contact ELI admissions at [eli\-admissions@udel.edu](mailto:eli-admissions@udel.edu "Email the English Language Institute"):
+Applying for Level Up Academics is easy! Simply follow these instructions. Questions? Contact ELI admissions at [eli-admissions@udel.edu](mailto:eli-admissions@udel.edu "Email the English Language Institute"):
 
 1. Complete our [online application](https://apply.udel.edu/register/?id=ece0b1ff-4d37-4de5-9f50-c0649f0cf3b8 "Link to form: Special Programs Application, English Language Institute, University of Delaware").
-2. Pay the non\-refundable US $300 tuition deposit. [Pay this fee with a credit card using our secure online payment system](https://commerce.cashnet.com/cashnetg/static/storefront/UDEL-ELIADM/catalog "Link to form: University of Delaware Payment System, English Language Institute Admission Fees Payment").
-3. Send a copy of your passport to [ud\-eli@udel.edu](mailto:ud-eli@udel.edu "Email the English Language Institute").
+2. Pay the non-refundable US $300 tuition deposit. [Pay this fee with a credit card using our secure online payment system](https://commerce.cashnet.com/cashnetg/static/storefront/UDEL-ELIADM/catalog "Link to form: University of Delaware Payment System, English Language Institute Admission Fees Payment").
+3. Send a copy of your passport to [ud-eli@udel.edu](mailto:ud-eli@udel.edu "Email the English Language Institute").
 
 ## About the English Language Institute
 
-The English Language Institute (ELI) is an academic unit of the University of Delaware’s College of Arts and Sciences and has a long tradition of providing high\-quality intensive English programs to international students and professionals from around the world. 
+The English Language Institute (ELI) is an academic unit of the University of Delaware’s College of Arts and Sciences and has a long tradition of providing high-quality intensive English programs to international students and professionals from around the world.
 
-The University of Delaware is considered to be one of the best institutions of higher learning in the USA and is currently ranked \#44 among public institutions by the *US News and World Report*, 2025\.
+The University of Delaware is considered to be one of the best institutions of higher learning in the USA and is currently ranked #44 among public institutions by the *US News and World Report*, 2025.
 
- 
+[**Back to the top of the page >>**](#top)
 
-[**Back to the top of the page \>\>**](#top)
+Colleges
 
- Colleges
-
-### [College of Arts \& Sciences](/academics/colleges/cas/)
+### [College of Arts & Sciences](/academics/colleges/cas/)
 
 * [About Us](/content/udel/en/academics/colleges/cas/about-us)
 * [Prospective Students](/content/udel/en/academics/colleges/cas/prospective-students)
 * [Current Students](/content/udel/en/academics/colleges/cas/current-students)
 * [Academics](/content/udel/en/academics/colleges/cas/units)
-* [News \& Events](/content/udel/en/academics/colleges/cas/news-events)
-* [Research \& Innovation](/content/udel/en/academics/colleges/cas/research-innovation)
-* [Alumni \& Friends](/content/udel/en/academics/colleges/cas/alumni-friends)
+* [News & Events](/content/udel/en/academics/colleges/cas/news-events)
+* [Research & Innovation](/content/udel/en/academics/colleges/cas/research-innovation)
+* [Alumni & Friends](/content/udel/en/academics/colleges/cas/alumni-friends)
 
 #### RESOURCES
 
 * [College Operations](https://cas.artsci.udel.edu/college-operations/ "College Operations")
 
 #### Connect
-
-* 
-* 
-* 
-* 
-
- 
- 
- 
 
 [TOP](#skipContent)
 
@@ -389,27 +351,14 @@ The University of Delaware is considered to be one of the best institutions of h
 
 * [Contact Us](/home/contact-ud/)
 * University of Delaware Newark, DE 19716 USA
-* P: 302\-831\-2792
-* + 
-	+ 
-	+ 
-	+ 
-	+
+* P: 302-831-2792
 
 ---
 
-* 
-* 
-* 
-* 
-* 
+©2026 University of Delaware
 
- ©2026 University of Delaware
- 
+[Comments](/home/comments/)
 
-[Comments](/home/comments/) 
+[Legal Notices](/home/legal-notices/)
 
-[Legal Notices](/home/legal-notices/) 
-
-[Accessibility](/home/legal-notices/accessibility/) 
-
+[Accessibility](/home/legal-notices/accessibility/)

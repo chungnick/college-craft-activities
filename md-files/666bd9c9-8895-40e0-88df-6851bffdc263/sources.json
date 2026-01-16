@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main0.md": "https://dhwri.org/internship-programs/high-school-summer-internships-program/",
+    "sister3.md": "https://careers-dartmouth-hitchcock.icims.com/jobs/36178/dartmouth-hitchcock-high-school-foundations-summer-internship-program/job?mode=view&mobile=false&width=1905&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240"
+  },
+  "errors": {
+    "sister1.md": "403 Client Error: Forbidden for url: https://dhcareerinstitute.org/wp-content/uploads/2025/09/DH-Career-Institute_Catalog-2025-2026_V1.pdf",
+    "sister2.md": "403 Client Error: Forbidden for url: https://dhcareerinstitute.org/internship-programs/high-school-summer-internships-program/"
+  }
+}

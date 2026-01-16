@@ -1,0 +1,9 @@
+High School Research Program (HSRP) Student Application Form
+
+Please wait…
+
+|  |
+| --- |
+| [Workforce Development & Science Education](https://www.bnl.gov/education/) |
+| |  |  |  |  |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | | |  |  |  |  |  |  |  | | --- | --- | --- | --- | --- | --- | --- | |  |  | |  | | --- | | 1 of 7 | | |  |  | | --- | --- | |  |  | | | | High School Research Program (HSRP)  Student Application Form | | | | | |  |  |  |  |  | | --- | --- | --- | --- | --- | | |  |  | | --- | --- | |  | | | **A completed application includes the following:**   * A completed application includes two letters of recommendation. Directions will be provided upon submitting this application form.   **Eligibility requirements are as follows:**   * Recommended for students that have completed 11th grade. Due to Brookhaven National Laboratory, safety regulations students under the age of 18 may not be allowed to perform certain tasks. * Need to be at least 16 years of age by the start of the program. * U.S. citizen or lawful permanent resident (green card holder) of the U.S. * Active health insurance for the duration of the program. * This is a commuter program; transportation and housing are not provided.   For information about the High School Research Program, please visit: [HSRP](https://www.bnl.gov/education/programs/program.php?q=219) | | | | There are errors in the page. Please correct the errors before moving forward. | | |  |  |  | | --- | --- | --- | |  |  |  | | | |
+| Survey Created By: [BNL Web Services](https://www.bnl.gov/web/) |

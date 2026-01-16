@@ -1,0 +1,9 @@
+{
+  "files": {
+    "main0.md": "https://eng.umd.edu/k-12-pre-college/scholars-program",
+    "sister2.md": "https://eng.umd.edu/academics-students/pre-college-programs"
+  },
+  "errors": {
+    "sister1.md": "404 Client Error: Not Found for url: https://eng.umd.edu/academics-students/pre-college-programs/summer"
+  }
+}

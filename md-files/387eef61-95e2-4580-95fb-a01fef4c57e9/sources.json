@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main0.md": "https://www.ohio.edu/scripps-college/media-arts-studies/high-school-media-workshop",
+    "sister2.md": "https://commerce.cashnet.com/ohiomediaschool",
+    "sister3.md": "https://www.ohio.edu/news/2025/09/exploring-media-finding-direction"
+  },
+  "errors": {
+    "sister1.md": "HTTPSConnectionPool(host='scripps-college.ohio.edu', port=443): Max retries exceeded with url: /media-arts-studies/high-school-media-workshop (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x11b2d1250>: Failed to resolve 'scripps-college.ohio.edu' ([Errno 8] nodename nor servname provided, or not known)\"))"
+  }
+}

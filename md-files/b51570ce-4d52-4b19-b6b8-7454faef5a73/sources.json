@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main0.md": "https://www.envisionexperience.com/explore-our-programs/aerospace-academy",
+    "sister3.md": "https://www.envisionexperience.com/faqs"
+  },
+  "errors": {
+    "sister1.md": "404 Client Error: Not Found for url: https://www.envisionexperience.com/dates-locations",
+    "sister2.md": "404 Client Error: Not Found for url: https://www.envisionexperience.com/tuition"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main0.md": "https://sites.coecis.cornell.edu/catalystacademy/"
+  },
+  "errors": {
+    "sister1.md": "404 Client Error: Not Found for url: https://sites.coecis.cornell.edu/catalystacademy/?page_id=725",
+    "sister2.md": "404 Client Error: Not Found for url: https://sites.coecis.cornell.edu/catalystacademy/?page_id=201",
+    "sister3.md": "410 Client Error: Gone for url: https://outreachacademies.engineering.cornell.edu/"
+  }
+}

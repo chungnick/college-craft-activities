@@ -1,0 +1,359 @@
+Berkeley Math Tournament 2025
+
+Berkeley Math Tournament
+
+⁄
+
+Home
+[Home](https://berkeley.mt/)
+
+[Home](https://berkeley.mt/)
+
+⁄
+
+News
+[News](https://berkeley.mt/news/)
+
+[News](https://berkeley.mt/news/)
+
+⁄
+
+Blog
+[Blog](https://berkeley.mt/blog/)
+
+[Blog](https://berkeley.mt/blog/)
+
+⁄
+
+About
+[About](https://berkeley.mt/about/)
+
+[About](https://berkeley.mt/about/)
+
+⁄
+
+Resources
+[Resources](https://berkeley.mt/resources/)
+
+[Resources](https://berkeley.mt/resources/)
+
+⁄
+
+BMT 2025
+[BMT 2025](https://berkeley.mt/events/bmt-2025/)
+
+BMT 2025
+
+⁄
+
+BMT 2025 Online
+[BMT 2025 Online](https://berkeley.mt/events/bmt-2025-online/)
+
+[BMT 2025 Online](https://berkeley.mt/events/bmt-2025-online/)
+
+---
+
+# Berkeley Math Tournament 2025
+
+## Saturday, November 8, 2025
+
+We're excited to welcome students back to the UC Berkeley campus on November 8,
+2025, for this year's Berkeley Math Tournament! As in past years, the contest
+will consist of three rounds: Power, Individual, and Guts.
+
+BMT is open to high school students in **grades 12 or below**. In particular,
+there is **no lower age limit** to participate; advanced middle school students
+are welcome to compete. Teams may have up to 6 students. You do not have to be
+local to the Bay Area or California to register for BMT.
+
+For those unable to make it to UC Berkeley campus, we're also offering BMT
+2025 Online, a synchronous online event, on **December 6, 2025**. Details about
+the online tournament be found on the
+[BMT 2025 Online Event Page](/events/bmt-2025-online/).
+
+This page contains primarily registration details. Detailed information on
+the schedule, rooms, and other day-of-tournament details will be released closer
+to the event date.
+
+[Registration Portal](https://contestdojo.com/)
+[Tournament Day Logistics](/news/bmt-2025-logistics/)
+
+## Registration Timeline
+
+Registration will open on **Monday, September 15 at 9:00 AM PT**. This year,
+registration will take place in two phases to give smaller organizations an
+opportunity to register.
+
+| Dates | Registration Period | Price Per Student | Additional Notes |
+| --- | --- | --- | --- |
+| 9/15 – 10/5 | Phase 1 | $15 | Limited to 36 seats per organization. Shirts may be pre-ordered for $8 per student. |
+| 10/6 – 10/17 | Phase 2 | $15 | No limit on seats per organization. Shirts may be pre-ordered for $8 per student. |
+| 10/18 – 10/20 | Phase 2 Extension | $15 | No limit on seats per organization. Shirts are no longer available for pre-order. |
+| 10/21 – 10/31 | Late Registration | $25 | Shirts are not guaranteed, but may be purchased day-of for $10. |
+
+\*All dates are in US Pacific Time. That is, Phase 2 Extension registration ends at 11:59
+PM PT on 10/20/2025.
+
+\*\*For students facing financial hardship, please contact [team@berkeley.mt](mailto:team@berkeley.mt)
+for a fee waiver.
+
+## Student Eligibility
+
+* Students must be in **grade 12 or below** to be eligible for BMT.
+* Students do not have to be local to the Bay Area, California, or the U.S. to
+  participate in BMT. However, we will offer BMT Online in either December or
+  January (TBA), which may be more convenient for some students.
+* Coaches may register multiple teams under the same organization. We ask that
+  organizations provide at least one adult chaperone for every two teams.
+
+## How to Register
+
+Most pre- and post-contest tasks, including registration, team assignments,
+signing of waivers, and viewing score reports, may be completed at
+[ContestDojo](https://contestdojo.com/), an online math competition platform. If
+you are unfamiliar with ContestDojo, please read our [ContestDojo Guide](https://docs.berkeley.mt/s/contestdojo-guide).
+
+**All contestants under 18 are required to have their parent/guardian sign UC
+Berkeley's consent waivers through this portal. Contestants will NOT be allowed
+to take the contest without having a signed liability and consent to treatment
+waiver. Students 18 and over may self-sign these waivers.**
+
+Any questions about the ContestDojo portal should be directed to us at
+[team@berkeley.mt](mailto:team@berkeley.mt).
+
+### Teammate Finder
+
+Students may register as a team of 1. However, it is beneficial to compete on a
+team of at least 4 due to our scoring guidelines. For students who do not have a
+full team, we have organized a [Teammate Finder](https://docs.google.com/spreadsheets/d/1A-yuY0MD7x8fizKehsWQ5eTWF8jxCxETvUezwhtUNEk/edit) spreadsheet. Follow all
+outlined steps in the spreadsheet.
+
+## Travel and Transportation
+
+UC Berkeley is situated in the East Bay region of Northern California,
+just across the bay from San Francisco. The Berkeley campus is a 10 to 15 minute
+walk from the Downtown Berkeley BART transit station, which connects directly to
+both the Oakland and San Francisco airports. Berkeley is also easily
+accessible by car.
+
+For detailed information about parking, public transportation, and campus maps,
+please see our [Tournament Day Logistics](/news/bmt-2025-logistics/) post.
+
+### Hotels
+
+For teams who are interested in booking a hotel room, we have a hotel room
+block with discounted rates at the Hotel Shattuck Plaza around contest weekend.
+**The cutoff date for booking is October 31, 2025.**
+
+[Book Hotel Room](https://reservations.hotelshattuckplaza.com/book/dates-of-stay?groupID=4967129)
+
+## Schedule
+
+The event is expected to begin around 8:00 AM and end before 7:00 PM.
+
+For detailed event schedule please see our [Tournament Day Logistics](/news/bmt-2025-logistics/) post.
+
+### Lunch
+
+This year, we are offering lunch for students, coaches, and parents at $12 per
+person, catered from [Crave Subs](https://www.cravesubs.com/), a sandwich store
+local to Berkeley. Those who wish to take this option **must pre-order on
+ContestDojo** through their coach. There are three menu items to choose from:
+
+* Ned Flanders — Turkey, Crave Sauce, Lettuce, & Tomato
+* Mr. Incredible — Pastrami, Crave Sauce, Lettuce, & Tomato
+* Vegan Marvin The Martian — Cucumbers, Pesto, Arugula, Crave Sauce, Lettuce, & Tomato
+
+Students, coaches and parents are also free to find their own food. Many
+restaurants can be found on the south side of campus (~5 minute walk from rooms)
+and in Downtown Berkeley (~15 minute walk from rooms).
+
+## Contest Format
+
+### Power Round (90 mins)
+
+The Power Round is a **proof-based team round.** Contestants will answer a
+series of questions centered around a single topic not typically seen in
+competitive mathematics, culminating in incredible results in the field of that
+chosen topic. For all questions (unless stated otherwise), teams will need to
+provide a rigorous mathematical justification for their assertions in full
+sentences.
+
+The topic for the Power Round will likely be at an undergraduate level, but no
+substantial previous mathematical background is expected.
+
+### Individual Round
+
+For the Individual Round, students may choose to take either the General Test or
+two Focus Tests.
+
+#### General Test (90 mins)
+
+The General Test is an individual test consisting of questions across the
+various subjects that comprise the Focus Tests. This test is intended to be
+easier than the Focus Tests and is highly recommended for students with less
+prior contest experience.
+
+#### Focus Tests (60 mins)
+
+There are four Focus Tests of 10 questions across four subjects — Algebra,
+Geometry, Discrete (Combinatorics and Number Theory), and Calculus. Each student
+can participate in two Focus Tests.
+
+### Guts Round (75 mins)
+
+The Guts Round consists of **9 sets of 3 problems** across various subjects in
+math. The key feature of this round is that each set must be turned in before
+the next set is given. All teams can see a live scoreboard with their standings.
+
+## Scoring
+
+Individuals are only ranked within the tests they choose to take. Individual
+Round scores are determined by the number of correct answers. Each correct
+answer is worth 1 point, i.e. there is no weighting among the problems.
+
+Team scores are determined based on a combination of teams' scores on the Guts
+and Power Rounds, as well as the Individual Round scores of their team members.
+The weights are displayed in the table in summary table below.
+
+When weighting team scores, scores for a given test will be normalized by either
+the average of the top 10 scores or the top 10% of scores, whichever represents
+more students/teams. Additionally, if a student takes the General Test instead
+of the two Focus Tests, their score will only count for half as many points as
+the Focus Test combinations would.
+
+### Tiebreakers
+
+A tiebreaking procedure is employed for top awards for each test. Ties are not
+broken for honorable mentions or calculating overall team scores.
+
+To streamline the event, we have a new automatic tiebreaker policy this year,
+which works as follows:
+
+1. First, problems are ordered from **hardest** to **easiest**, based on the
+   number of correct submissions.
+2. The *n*-th hardest problem is assigned a **tiebreaking value** of
+   2−*n*. For example, the hardest problem will have a tiebreaking
+   value of ½, the second hardest problem will have a tiebreaking value of ¼, et
+   cetera.
+3. Each student's **tiebreaking index** is calculated as the sum of their
+   original score and the tiebreaker values of the problems that they correctly
+   answered.
+4. Students are ordered by their tiebreaking index, determining their tiebroken
+   rank.
+
+In simpler terms, among those tied for the same score, whoever solved the
+hardest problem is placed the highest, followed by the one who solved the next
+hardest, and so on.
+
+### Additional Tiebreaker Procedure
+
+If a tie remains on the Individual Round after the preceding automatic
+tiebreaking procedure -- i.e., if two students correctly answered precisely the
+same set of problems, then those students will participate in an additional
+Tiebreaker Round. Ties that remain on the Guts Round or Power Round will not be
+tiebroken.
+
+This 15-minute test will consist of either three (for the Focus Tests) or five
+(for the General Test) questions, and be scored primarily on correctness and
+secondarily on submission time; i.e. an earlier submission will be worth more
+than a later one with the same number of correct answers, but less than a later
+one with more correct answers.
+
+Students may submit multiple times within the duration of the test, but only the
+last submission will be considered.
+
+### Round & Scoring Summary
+
+|  | Power | General | Focus | Guts |
+| --- | --- | --- | --- | --- |
+| Important Details Proof-based | Students may choose to participate in **either** the General Test or **two** separate Focus Tests, but not both. | | Submitted and scored live in sets of 3 | |
+| Location Assigned Classrooms — See Tournament Guide | | | | |
+| # of Questions TBA | 25 | 10 | 27 | |
+| Duration 90 mins | 90 mins | 60 mins | 75 mins | |
+| % of Score 30% | 40% | | 30% | |
+| Important Scoring Notes N/A | If a team has less than 4 members, scores of 0 will be added until the team has 4 Individual Round scores. The General Test will only count for half as many points as the Focus Test combinations. | | Teams are scored live, and a scoreboard will be displayed. | |
+| Collaboration? Yes | No | No | Yes | |
+
+### Acceptable Answers
+
+Students are responsible for familiarizing themselves with the [acceptable
+answer formats document](/assets/answer-formats.pdf) and [common notions
+document](/assets/common-notions.pdf) for details on how their answers should be
+submitted. Answers not submitted in the listed formats will be graded as
+incorrect, even if equivalent.
+
+## Activities
+
+After the Guts Round, we will be hosting student activities. These are optional
+activities that promote recreational math.
+
+For a full list of activities and their locations, please see the
+[Tournament Day Logistics](/news/bmt-2025-logistics/) post.
+
+## Frequently Asked Questions
+
+### Are calculators or other reference material allowed?
+
+Graph paper and calculators are prohibited, but protractors, rulers, and
+compasses are permitted. Blank white scratch paper will be provided for all
+participants. All answers must be exact, reduced, and simplified. Illegible
+answers will not be graded. Cheating in any form will not be tolerated, and
+failure to comply with all rules may result in immediate and irreversible
+disqualification.
+
+### Can middle school students compete? What if I don't have a team?
+
+Yes! BMT is open to any student in 12th grade or below, including those who
+haven't entered high school. While students are allowed to compete as
+individuals, we highly recommend that students compete on a team of at least 4
+due to our scoring guidelines.
+
+### How are awards handled?
+
+Awards will be physically presented to contestants at the closing ceremony.
+
+### I'm in a different timezone or non-local and can't compete live. What are my options?
+
+There will be BMT Satellite competitions held through our partners across the
+globe for competitors wishing to compete in a different time zone. Additionally,
+we may offer an online option for remote participation.
+
+### Where can I find parking? How can I get to Berkeley?
+
+BMT does not provide travel or parking for students — coaches should arrange
+their own travel logistics. For detailed information about parking, public
+transportation options, and campus maps, please see our
+[Tournament Day Logistics](/news/bmt-2025-logistics/) post.
+
+* [Registration Timeline](https://berkeley.mt/events/bmt-2025/#registration-timeline)
+* [Student Eligibility](https://berkeley.mt/events/bmt-2025/#student-eligibility)
+* [How to Register](https://berkeley.mt/events/bmt-2025/#how-to-register)
+  + [Teammate Finder](https://berkeley.mt/events/bmt-2025/#teammate-finder)
+* [Travel and Transportation](https://berkeley.mt/events/bmt-2025/#travel-and-transportation)
+  + [Hotels](https://berkeley.mt/events/bmt-2025/#hotels)
+* [Schedule](https://berkeley.mt/events/bmt-2025/#schedule)
+  + [Lunch](https://berkeley.mt/events/bmt-2025/#lunch)
+* [Contest Format](https://berkeley.mt/events/bmt-2025/#contest-format)
+  + [Power Round (90 mins)](https://berkeley.mt/events/bmt-2025/#power-round-90-mins)
+  + [Individual Round](https://berkeley.mt/events/bmt-2025/#individual-round)
+    - [General Test (90 mins)](https://berkeley.mt/events/bmt-2025/#general-test-90-mins)
+    - [Focus Tests (60 mins)](https://berkeley.mt/events/bmt-2025/#focus-tests-60-mins)
+  + [Guts Round (75 mins)](https://berkeley.mt/events/bmt-2025/#guts-round-75-mins)
+* [Scoring](https://berkeley.mt/events/bmt-2025/#scoring)
+  + [Tiebreakers](https://berkeley.mt/events/bmt-2025/#tiebreakers)
+  + [Additional Tiebreaker Procedure](https://berkeley.mt/events/bmt-2025/#additional-tiebreaker-procedure)
+  + [Round & Scoring Summary](https://berkeley.mt/events/bmt-2025/#round-scoring-summary)
+  + [Acceptable Answers](https://berkeley.mt/events/bmt-2025/#acceptable-answers)
+* [Activities](https://berkeley.mt/events/bmt-2025/#activities)
+* [Frequently Asked Questions](https://berkeley.mt/events/bmt-2025/#frequently-asked-questions)
+  + [Are calculators or other reference material allowed?](https://berkeley.mt/events/bmt-2025/#are-calculators-or-other-reference-material-allowed)
+  + [Can middle school students compete? What if I don't have a team?](https://berkeley.mt/events/bmt-2025/#can-middle-school-students-compete-what-if-i-don-t-have-a-team)
+  + [How are awards handled?](https://berkeley.mt/events/bmt-2025/#how-are-awards-handled)
+  + [I'm in a different timezone or non-local and can't compete live. What are my options?](https://berkeley.mt/events/bmt-2025/#i-m-in-a-different-timezone-or-non-local-and-can-t-compete-live-what-are-my-options)
+  + [Where can I find parking? How can I get to Berkeley?](https://berkeley.mt/events/bmt-2025/#where-can-i-find-parking-how-can-i-get-to-berkeley)
+
+---
+
+We are a student group acting independently of the University of California. We take full responsibility for
+our organization and this web site.
