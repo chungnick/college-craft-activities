@@ -688,17 +688,5 @@
       "error": "Empty content extracted from https://dbbs.wustl.edu/items/young-scientist-program-ysp/",
       "timestamp": "2026-01-15T16:57:17.672211"
     }
-  },
-  "224e8551-535c-4420-9a8f-a576481f3619": {
-    "step4_6_orchestrator": {
-      "error": "'list' object is not a mapping",
-      "timestamp": "2026-01-15T17:18:11.762468"
-    }
-  },
-  "2757675f-0518-49ec-a24c-d4a729a5c2ec": {
-    "step4_6_orchestrator": {
-      "error": "'list' object is not a mapping",
-      "timestamp": "2026-01-15T17:24:33.256681"
-    }
   }
 }
